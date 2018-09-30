@@ -1,4 +1,25 @@
-[
+{
+
+	"filter":[
+				"googleads.g.doubleclick.net",
+				"about:blank"
+			],
+	"js":[
+                "var navbar = document.getElementsByClassName('ui-navbar')[0];navbar.parentNode.removeChild(navbar);",
+                "var search = document.getElementsByClassName('ui-input-search')[0];search.parentNode.removeChild(search);",
+                "var header = document.getElementsByClassName('ui-header')[0];header.parentNode.removeChild(header);",
+                "var footer = document.getElementsByClassName('ui-footer')[0];footer.parentNode.removeChild(footer);",
+                "var listview = document.getElementById('myEpg');listview.parentNode.removeChild(listview);",
+               
+                "var video = document.getElementById('ikdsPlayer');video.setAttribute(\"webkit-playsinline\",\"\");video.setAttribute(\"playsinline\",\"\");",
+                
+                "var myLiveBack = document.getElementById('myLiveBack');myLiveBack.setAttribute(\"style\",\"padding: 0px;margin-left: 0px;\");",
+                
+                "var body = document.getElementsByTagName('body')[0];body.setAttribute(\"style\",\"background-color:black\");",
+                "var bodyc = document.getElementsByClassName('ui-body-c')[0];bodyc.setAttribute(\"style\",\"padding-top: 0px;background-color:black;min-height: 0px;\");",
+                "var uicontent = document.getElementsByClassName('ui-content')[0];uicontent.setAttribute(\"style\",\"padding-top: 0px; background-color: black; min-height: 0px;\");"
+			],
+	"data" : [
   {
     "url" : "http:\/\/m.91kds.cn\/index1_ys.html",
     "name" : "央视",
@@ -11927,3 +11948,4 @@
     ]
   }
 ]
+}
