@@ -521,6 +521,27 @@
     ]
   },
   {
+    "url" : "http:\/\/m.91kds.cn\/index2_xg.html",
+    "name" : "香港",
+    "list" : [
+      {
+      	"type":"video",
+        "url" : "http://m.567it.com/jade.m3u8",
+        "name" : "Jade"
+      },
+      {
+      	"type":"video",
+        "url" : "http://m.567it.com/videoi-news.php",
+        "name" : "娱乐新闻台"
+      },
+      {
+      	"type":"video",
+        "url" : "http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/playlist.m3u8?hdnea=st=1538965490~exp=1539051890~acl=/enewslive/smil:mobilehd_enews.smil/*~hmac=4ceb917ff52cb8f83d23d14c6afeadc34eba2aa902b5ad48640f6def1ef9fba9",
+        "name" : "娱乐新闻台"
+      }
+  	]
+ },
+  {
     "url" : "http:\/\/m.91kds.cn\/index2_yi.html",
     "name" : "影视",
     "list" : [
