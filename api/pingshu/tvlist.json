@@ -546,20 +546,20 @@
       }, 
       {
         "type":"video",
-        "url" : "Pearl",
-        "name" : "rtmp://live9.yshdtv.com/live/12110_ed546539bfa411e792905cb9018cf0d4"
+        "name" : "Pearl",
+        "url" : "rtmp://live9.yshdtv.com/live/12110_ed546539bfa411e792905cb9018cf0d4"
       },  
 
     
       {
         "type":"video",
-        "url" : "ViuTV",
-        "name" : "rtmp://live9.yshdtv.com/live/12110_a75aec7dbfa411e792905cb9018cf0d4?http://t104-156bd5.boxtv.win/live/kwzq1rse/zbjk0cj6/index.m3u8"
+        "name" : "ViuTV",
+        "url" : "rtmp://live9.yshdtv.com/live/12110_a75aec7dbfa411e792905cb9018cf0d4?http://t104-156bd5.boxtv.win/live/kwzq1rse/zbjk0cj6/index.m3u8"
       },
       {
         "type":"video",
-        "url" : "tvbxh",
-        "name" : "http://59.125.55.79:60001/60002.m3u8"
+        "name" : "tvbxh",
+        "url" : "http://59.125.55.79:60001/60002.m3u8"
       }, 
             {
         "type":"video",
@@ -568,8 +568,8 @@
       },     
       {
         "type":"video",
-        "url" : "星空电影",
-        "name" : "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
+        "name" : "星空电影",
+        "url" : "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
       },
 
       {
