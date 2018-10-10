@@ -1,17 +1,9 @@
 {
     "platformlist":[
-                    {
-                    "stop":true,
-                    "name":"爱奇艺",
-                    "url":"http://www.iqiyi.com",
-                    "reload":{
-                              "logo.png":"https://i.loli.net/2018/09/11/5b977f45005ab.png"
-                            }
-                    },
-                    
+
                     
                     {
-                    "name":"港剧TV",
+                    "name":"港剧",
                     "url":"https://m.dsmi.cc/",
                     "reload":{
                               "logo.png":"https://upload-images.jianshu.io/upload_images/1274527-9296426d41604e5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
@@ -36,10 +28,18 @@
                                  "api.52088cj.com"
                                  ]
                     },
+                    {
+                    "stop":true,
+                    "name":"爱奇艺",
+                    "url":"http://www.iqiyi.com",
+                    "reload":{
+                              "logo.png":"https://i.loli.net/2018/09/11/5b977f45005ab.png"
+                            }
+                    },
                     
                     
                     {
-                    "name":"日剧TV",
+                    "name":"日剧",
                     "url1":"https://m.rijutv.com/riju",
                     "url":"http://www.ykmov.com/",
                     "reload":{
@@ -87,44 +87,8 @@
              "url": ""
              },
              {
-             "name": "默认解析接口",
-             "url": "http://www.lanzhuzhibo.com/jiexi/?url="
-             },
-             {
-             "name": "电视台及视频流播放接口",
-             "url": "http://www.lanzhuzhibo.com/jiexi1/?url="
-             },
-             {
-             "name": "腾讯优酷等全网Vip视频播放接口",
-             "url": "http://www.lanzhuzhibo.com/jiexi/?url="
-             },
-             {
-             "name": "http://y.mt2t.com/lines?url=",
-             "url": "二号解析接口"
-             },
-             {
-             "name": "四号解析接口",
-             "url": "http://jqaaa.com/jx.php?url="
-             },
-             {
-             "name": "五号解析接口",
-             "url": "http://api.662820.com/xnflv/index.php?url="
-             },
-             {
-             "name": "六号解析接口",
-             "url": "http://api.xfsub.com/index.php?url="
-             },
-             {
-             "name": "七号解析接口",
-             "url": "http://jiexi.92fz.cn/player/vip.php?url="
-             },
-             {
-             "name": "八号解析接口",
-             "url": "http://www.662820.com/xnflv/index.php?url="
-             },
-             {
-             "name": "万能接口5",
-             "url": "http://jx.vgoodapi.com/jx.php?url="
+             "name": "推荐",
+             "url": "http://jx.du2.cc/jx6.php?url="
              },
              {
              "name": "5月-8",
