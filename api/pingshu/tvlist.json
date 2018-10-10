@@ -541,6 +541,39 @@
       },
       {
         "type":"video",
+        "url" : "rtmp://live9.yshdtv.com/live/12110_2749d42abfa411e792905cb9018cf0d4",
+        "name" : "J2"
+      }, 
+      {
+        "type":"video",
+        "url" : "Pearl",
+        "name" : "rtmp://live9.yshdtv.com/live/12110_ed546539bfa411e792905cb9018cf0d4"
+      },  
+
+    
+      {
+        "type":"video",
+        "url" : "ViuTV",
+        "name" : "rtmp://live9.yshdtv.com/live/12110_a75aec7dbfa411e792905cb9018cf0d4?http://t104-156bd5.boxtv.win/live/kwzq1rse/zbjk0cj6/index.m3u8"
+      },
+      {
+        "type":"video",
+        "url" : "tvbxh",
+        "name" : "http://59.125.55.79:60001/60002.m3u8"
+      }, 
+            {
+        "type":"video",
+        "url" : "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8",
+        "name" : "奇妙电视"
+      },     
+      {
+        "type":"video",
+        "url" : "星空电影",
+        "name" : "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
+      },
+
+      {
+        "type":"video",
         "url" : "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
         "name" : "凤凰中文"
       },
@@ -553,6 +586,11 @@
         "type":"video",
         "url" : "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8",
         "name" : "凤凰香港"
+      },
+            {
+        "type":"video",
+        "url" : "rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy",
+        "name" : "凤凰电影"
       },
       {
         "type":"video",
