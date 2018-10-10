@@ -571,7 +571,11 @@
         "name" : "星空电影",
         "url" : "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
       },
-
+      {
+        "type":"video",
+        "name" : "天映频道",
+        "url" : "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8"
+      },
       {
         "type":"video",
         "url" : "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8",
