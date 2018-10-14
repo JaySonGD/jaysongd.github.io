@@ -2,6 +2,18 @@
  "title": "aaa",
  "msg": "bbb",
  "count": 1144,
+ "banner":[
+
+ 			{ 
+ 				"name": "取消",
+ 				"img": "https://upload.jianshu.io/admin_banners/web_images/4502/25b524b6d1d21c508b7ca6a6a0a77ead48eed1b6.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+			},
+			{ 
+ 				"name": "4444",
+ 				"img": "https://upload.jianshu.io/admin_banners/web_images/4501/572782ecf027e81f518edce85f98036e88beb290.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540"
+			}
+
+ 		],
  "items": [
  			{ 
  				"title": "取消",
