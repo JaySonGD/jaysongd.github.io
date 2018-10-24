@@ -89,29 +89,35 @@
 		.qimo8 .qimo {
 			/*width:99999999px;*/
 			width:8000%; 
-			height:44px;
+			/*height:44px;*/
 		}
 		.qimo8 .qimo div{ 
 			float:left;
 		}
-		
-	    p{
+		.qimo8 .qimo ul{
+			float:left; 
+			/*height:44px; */
+			overflow:hidden; 
+			zoom:1; 
+		}
+		.qimo8 .qimo ul li{
+			float:left; 
+			line-height:44px; 
+			list-style:none;
+		}
+		.qimo8 li p{
 			margin-right:10px;
-			color:rgba(255,255,255,0.7);
+			color:#FF00FF;
 			font-size: 35px;
 			display: inline;
 
 		}
-	/*	#icon {
-			width: 44px;
-			height: 44px;
 
-		}
-*/		#logo {
-			width: 88px;
-			height: 88px;
+		#logo {
+			width: 40px;
+			height: 40px;
 			position: fixed;
-			bottom: 100px;
+			bottom: 48%;
 			left: 32px;
 
 		}
@@ -122,10 +128,19 @@
 	<div id="demo" class="qimo8">
 	  <div class="qimo">
 	    <div id="demo1">
-
-	            	<!-- <img id="icon" src="https://upload-images.jianshu.io/upload_images/1274527-866564d5450539d1.png" onclick="location='https://wwww.baidu.com'"> -->
-	            	<p>111关于div两种居中其根本布局效果是不同的，<span style="color: orange" onclick="location='https://wwww.baidu.com'">一个是结构的</span>，一个是内容排版布局</p>
-
+	      <ul>
+	            <li>
+	            	
+	            	<p>111关于div两种居中其根本布局效果是不同的,<span style="color: orange" onclick="location='https://wwww.baidu.com'">一个是结构的</span>，一个是内容排版布局</p>
+	            </li>
+	      <!--       <li><p>222关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>333关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>444关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>444关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>555关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>666关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li> -->
+	            <!-- <li><p>777关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li> -->
+	      </ul>
 	    </div>
 	    <div id="demo2"></div>
 	  </div>
