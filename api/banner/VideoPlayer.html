@@ -89,33 +89,31 @@
 		.qimo8 .qimo {
 			/*width:99999999px;*/
 			width:8000%; 
-			/*height:44px;*/
+			height:44px;
 		}
 		.qimo8 .qimo div{ 
 			float:left;
 		}
-		.qimo8 .qimo ul{
-			float:left; 
-			/*height:44px; */
-			overflow:hidden; 
-			zoom:1; 
-		}
-		.qimo8 .qimo ul li{
-			float:left; 
-			/*line-height:44px; */
-			list-style:none;
-		}
-		.qimo8 li p{
+		
+	    p{
 			margin-right:10px;
-			color:#FFFFFF;
+			color:rgba(256,256,256,0.7);
 			font-size: 35px;
+			display: inline;
+
 		}
-		img {
-			width: 40px;
-			height: 40px;
+	/*	#icon {
+			width: 44px;
+			height: 44px;
+
+		}
+*/		#logo {
+			width: 88px;
+			height: 88px;
 			position: fixed;
 			bottom: 48%;
 			left: 32px;
+
 		}
 	</style>
 </head>
@@ -124,21 +122,15 @@
 	<div id="demo" class="qimo8">
 	  <div class="qimo">
 	    <div id="demo1">
-	      <ul>
-	            <li><p>111关于div两种居中其根本布局效果是不同的，<span style="color: orange" onclick="location='https://wwww.baidu.com'">一个是结构的</span>，一个是内容排版布局</p></li>
-	      <!--       <li><p>222关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
-	            <li><p>333关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
-	            <li><p>444关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
-	            <li><p>444关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
-	            <li><p>555关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
-	            <li><p>666关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li> -->
-	            <!-- <li><p>777关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li> -->
-	      </ul>
+
+	            	<!-- <img id="icon" src="https://upload-images.jianshu.io/upload_images/1274527-866564d5450539d1.png" onclick="location='https://wwww.baidu.com'"> -->
+	            	<p>111关于div两种居中其根本布局效果是不同的，<span style="color: orange" onclick="location='https://wwww.baidu.com'">一个是结构的</span>，一个是内容排版布局</p>
+
 	    </div>
 	    <div id="demo2"></div>
 	  </div>
 	</div>
-	<img src="https://upload-images.jianshu.io/upload_images/1274527-866564d5450539d1.png" onclick="location='https://wwww.baidu.com'">
+	<img id="logo" src="https://upload-images.jianshu.io/upload_images/1274527-866564d5450539d1.png" onclick="location='https://wwww.baidu.com'">
 	<script type="text/javascript">
 		var demo = document.getElementById("demo");
 		var demo1 = document.getElementById("demo1");
