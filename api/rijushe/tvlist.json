@@ -546,6 +546,12 @@
                 {
                     "type": "video",
                     "vip": 1,
+                    "url": "http://120.241.64.71/hls6.kascend.com/chushou_live/1121288ca8.m3u8",
+                    "name": "J2(珍爱生命,远离赌博)"
+                },
+                {
+                    "type": "video",
+                    "vip": 1,
                     "url": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
