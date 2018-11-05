@@ -528,13 +528,13 @@
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://123.207.42.38/tvb.php?type=jade",
                     "name": "对于画面涉及金钱交易,请不要支持,以免上当受骗"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://m.567it.com/videoi-news.php",
                     "name": "News"
                 },
@@ -545,19 +545,19 @@
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://120.241.64.71/hls6.kascend.com/chushou_live/1121288ca8.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
@@ -580,6 +580,11 @@
                     "type": "video",
                     "name": "tvbxh",
                     "url": "http://59.125.55.79:60001/60002.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "TVB功夫台",
+                    "url": "http://weblive.hebtv.com/live/Asianaction/index.m3u8"
                 },
                 {
                     "type": "video",
