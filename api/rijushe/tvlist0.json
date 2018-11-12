@@ -528,13 +528,13 @@
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://123.207.42.38/tvb.php?type=jade",
                     "name": "对于画面涉及金钱交易,请不要支持,以免上当受骗"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://m.567it.com/videoi-news.php",
                     "name": "News"
                 },
@@ -545,19 +545,19 @@
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://120.241.64.71/hls6.kascend.com/chushou_live/1121288ca8.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
@@ -640,11 +640,6 @@
                     "type": "video",
                     "name": "星空卫视",
                     "url": "http://222.207.48.30/hls/startv.m3u8"
-                },
-                {
-                    "type": "video",
-                    "name": "珠江电影",
-                    "url": "http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8"
                 },
                 {
                     "type": "video",
