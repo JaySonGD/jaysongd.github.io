@@ -528,36 +528,42 @@
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://123.207.42.38/tvb.php?type=jade",
                     "name": "对于画面涉及金钱交易,请不要支持,以免上当受骗"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://m.567it.com/videoi-news.php",
                     "name": "News"
                 },
                 {
                     "type": "video",
-                    "url": "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil",
+                    "vip": 0,
+                    "url": "http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1542021919~exp=1542108319~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=2c0251e402a0e506fba76d8c7636460dfe8846ad820ae89c979a7615e11a05f9",
+                    "name": "News"
+                },
+                {
+                    "type": "video",
+                    "url": "http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/chunklist_b1096000.m3u8",
                     "name": "enews"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://120.241.64.71/hls6.kascend.com/chushou_live/1121288ca8.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 1,
+                    "vip": 0,
                     "url": "http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
