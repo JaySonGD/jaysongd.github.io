@@ -5,21 +5,34 @@
  "web":[
 			{ 
  				"name": "百度",
- 				"url":"https://www.baidu.com",
+ 				"url":"https://www.baidu.com/",
  				"img": "https://i.loli.net/2018/11/19/5bf26b357cb98.png"
 			},
 		
 			{ 
- 				"name": "百度",
- 				"url":"https://www.baidu.com",
- 				"img": "https://i.loli.net/2018/11/19/5bf26b357cb98.png"
+ 				"name": "谷歌",
+ 				"url":"https://www.google.com.hk/",
+ 				"img": "https://i.loli.net/2018/11/19/5bf27725ed61a.png"
 			},
 
 			{ 
- 				"name": "百度",
- 				"url":"https://www.baidu.com",
- 				"img": "https://i.loli.net/2018/11/19/5bf26b357cb98.png"
+ 				"name": "GitHub",
+ 				"url":"https://github.com/",
+ 				"img": "https://i.loli.net/2018/11/19/5bf277449c64e.png"
+			},
+
+			{ 
+ 				"name": "Apple",
+ 				"url":"https://developer.apple.com/",
+ 				"img": "https://i.loli.net/2018/11/19/5bf277bcc7f5f.png"
+			},
+
+			{ 
+ 				"name": "百度翻译",
+ 				"url":"https://fanyi.baidu.com/",
+ 				"img": "https://i.loli.net/2018/11/19/5bf278094fd8f.png"
 			}
+
 
  		]
  }
