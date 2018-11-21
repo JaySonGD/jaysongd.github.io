@@ -524,65 +524,46 @@
                 {
                     "type": "video",
                     "url": "http://m.567it.com/jade.m3u8",
-                    "name": "Jade"
+                    "name": "翡翠台"
                 },
                 {
                     "type": "video",
                     "vip": 1,
                     "url": "http://123.207.42.38/tvb.php?type=jade",
-                    "name": "对于画面涉及金钱交易,请不要支持,以免上当受骗"
+                    "name": "翡翠台-涉及金钱交易,请不要支持,以免上当受骗"
+                },
+                {
+                    "type": "video",
+                    "url": "http://pullhls6.inke.cn/live/1542636950329657/playlist.m3u8",
+                    "name": "翡翠台-涉及金钱交易,请不要支持,以免上当受骗"
                 },
                 {
                     "type": "video",
                     "vip": 1,
-                    "url": "http://al3-flv.live.huajiao.com/live/channel10890103.m3u8",
-                    "name": "News"
-                },
-                {
-                    "type": "video",
-                    "vip": 0,
                     "url": "http://m.567it.com/videoi-news.php",
-                    "name": "News"
+                    "name": "无线新闻台"
+                },
+                {
+                    "type": "video",
+                    "name": "无线新闻台",
+                    "url": "https://zeroys.top/omg/Zerotvb.php?zero=inews"
+                },
+                {
+                    "type": "video",
+                    "url": "http://edge19-1.edgeware.hk4.tvb.com/session/6bb68c0a-ed6f-11e8-89e8-005056b1026a/qh33qv/newslive/smil:mobile_inews.smil/chunklist_b491520.m3u8",
+                    "name": "无线新闻台"
                 },
                 {
                     "type": "video",
                     "vip": 0,
-                    "url": "http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1542021919~exp=1542108319~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=2c0251e402a0e506fba76d8c7636460dfe8846ad820ae89c979a7615e11a05f9",
-                    "name": "News"
-                },
-                {
-                    "type": "video",
-                    "vip": 1,
                     "url": "http://al3-flv.live.huajiao.com/live/channel10890201.m3u8",
                     "name": "有线新闻"
                 },
                 {
                     "type": "video",
-                    "url": "http://wowza-live.edge-global.akamai.tvb.com/enewslive/smil:mobilehd_enews.smil/chunklist_b1096000.m3u8",
-                    "name": "enews"
-                },
-                {
-                    "type": "video",
                     "vip": 1,
-                    "url": "http://al3-flv.live.huajiao.com/live/channel10890356.m3u8",
-                    "name": "J2(珍爱生命,远离赌博)"
-                },
-                {
-                    "type": "video",
-                    "vip": 0,
-                    "url": "http://al3-flv.live.huajiao.com/live/channel10890316.m3u8",
-                    "name": "J2(珍爱生命,远离赌博)"
-                },
-                {
-                    "type": "video",
-                    "vip": 0,
-                    "url": "http://120.241.64.71/hls6.kascend.com/chushou_live/1121288ca8.m3u8",
-                    "name": "J2(珍爱生命,远离赌博)"
-                },
-                {
-                    "type": "video",
-                    "vip": 0,
-                    "url": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
+                    "url": "rtmp://rtmpkjhk.hychuan.com/kaijiang/6he",
+                    "url0": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
@@ -593,13 +574,28 @@
                 },
                 {
                     "type": "video",
-                    "name": "Pearl",
-                    "url": "http://m.567it.com/Pearl.m3u8"
+                    "vip": 0,
+                    "url": "http://219.153.111.213/atv/01kjzcom__redirect__1392.m3u8",
+                    "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "name": "J5",
+                    "name": "明珠台",
+                    "url": "http://m.567it.com/Pearl.m3u8"
+                },
+                { 
+                    "url": "http://www.bddn.cn/fcylxw.htm",
+                    "name": "娱乐新闻台"
+                },
+                {
+                    "type": "video",
+                    "name": "无线财经台",
                     "url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "无线财经台",
+                    "url": "https://zeroys.top/omg/Zerotvb.php?zero=j5_ch85"
                 },
                 {
                     "type": "video",
@@ -611,6 +607,46 @@
                     "name": "tvbxh",
                     "url": "http://59.125.55.79:60001/60002.m3u8"
                 },
+
+
+                {
+                    "type": "video",
+                    "name": "603HD",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890303.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "球彩台",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890409.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "18台",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890306.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "HD电影",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890609.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "viuTV",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890707.m3u8"
+                },
+                {
+                    "type": "video",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890609.m3u8",
+                    "name": "有線電影二台"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://al3-flv.live.huajiao.com/live/channel10890301.m3u8",
+                    "name": "有線電影一台"
+                }, 
+
+
+
                 {
                     "type": "video",
                     "name": "TVB功夫台",
@@ -845,7 +881,14 @@
                     "type": "video",
                     "url": "http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8",
                     "name": "亚太第一卫视"
-                },
+                }
+            ]
+        },
+        {
+            "url": "http://m.91kds.cn/index1_sz.html",
+            "name": "澳门",
+            "list": [
+
                 {
                     "type": "video",
                     "url": "http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8",
@@ -890,7 +933,16 @@
                     "type": "video",
                     "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8",
                     "name": "澳亞衛視"
-                },
+                }
+
+
+            ]
+        },
+        {
+            "url": "http://m.91kds.cn/index1_sz.html",
+            "name": "台湾",
+            "list": [
+
                 {
                     "type": "video",
                     "url": "http://60.250.23.14:18080/CtiNews/index.m3u8",
@@ -899,7 +951,7 @@
                 {
                     "type": "video",
                     "url": "http://125.227.35.176:18080/ftv/index.m3u8",
-                    "name": "民視無綫台"
+                    "name": "民視"
                 },
                 {
                     "type": "video",
@@ -934,7 +986,7 @@
                 {
                     "type": "video",
                     "url": "http://125.227.35.176:18080/CTS/index.m3u8",
-                    "name": "華視"
+                    "name": "台視"
                 },
                 {
                     "type": "video",
@@ -953,9 +1005,188 @@
                 },
                 {
                     "type": "video",
-                    "url": "http://ms003.happytv.com.tw/live/etHoeg2vGypLeUK8/index.m3u8",
+                    "url": "http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8",
+                    "name": "中天新闻台"
+                },
+
+                {
+                    "type": "video",
+                    "url": "http://125.227.35.176:18080/VLSpot/index.m3u8",
+                    "name": "纬来体育台"
+                },
+                {
+                    "type": "video",
+                    "url": "http://125.227.35.176:18080/set/index.m3u8",
+                    "name": "三立台湾台"
+                },
+                {
+                    "type": "video",
+                    "url": "http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8",
+                    "name": "亚洲旅游台"
+                },
+                {
+                    "type": "video",
+                    "url": "http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8",
+                    "name": "非凡新闻台"
+                },
+                {
+                    "type": "video",
+                    "url": "http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8",
+                    "name": "华视咨讯台"
+                },
+   
+                {
+                    "type": "video",
+                    "url": "http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8",
                     "name": "寰宇新闻2台"
                 }
+
+            ]
+        },
+        {
+            "url": "http://m.91kds.cn/index1_sz.html",
+            "name": "国外",
+            "list": [
+
+                {
+                    "type": "video",
+                    "url": "http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8",
+                    "name": "日本映画"
+                },
+
+                {
+                    "type": "video",
+                    "url": "http://58.225.75.98/olive/_definst_/EB25C3294521A270F43BB7BFE9132D2C/chunklist_w1551618682.m3u8?content_type=PREVIEW",
+                    "name": "韩国OliveTV"
+                },
+                {
+                    "type": "video",
+                    "url": "http://pip-live-tving-diatv.cjenm.skcdn.com/diatv/8808264CC7BC890A3794CB34433AE8C3/playlist.m3u8?content_type=PREVIEW",
+                    "name": "韩国DIA TV"
+                },
+                {
+                    "type": "video",
+                    "url": "http://116.122.159.147/history/_definst_/A20ABF46E080EB013D3AD9EA8502D0E9/chunklist_w926263315.m3u8?content_type=PREVIEW",
+                    "name": "韩国History"
+                },
+
+                {
+                    "type": "video",
+                    "url": "https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8",
+                    "name": "新传媒8"
+                },
+                {
+                    "type": "video",
+                    "url": "https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8",
+                    "name": "新传媒U"
+                },                   
+                {
+                    "type": "video",
+                    "url": "https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8",
+                    "name": "新传媒5"
+                },
+                {
+                    "type": "video",
+                    "url": "http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8",
+                    "name": "亚洲新闻台"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://pip-live-tving-zhtv.cjenm.skcdn.com/zhtv/ACD29014A102706C68C6528BC8CA98E4/playlist.m3u8?content_type=PREVIEW",
+                    "name": "韩国中华TV"
+                },
+                {
+                    "type": "video",
+                    "url": "http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/master.m3u8",
+                    "name": "Al Araby TV"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://89.211.63.16:1935/HR06/HR06.stream/chunklist.m3u8",
+                    "name": "BBC World News"
+                },
+                {
+                    "type": "video",
+                    "url": "http://61.58.60.230:9000/live/102.m3u8",
+                    "name": "Eleven Sports 2"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8",
+                    "name": "Sky News"
+                },
+                {
+                    "type": "video",
+                    "url": "http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8",
+                    "name": "BBC Persian"
+                }, 
+                {
+                    "type": "video",
+                    "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+                    "name": "Sky News Arabia"
+                }, 
+
+                {
+                    "type": "video",
+                    "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+                    "name": "Fashion TV"
+                }, 
+                {
+                    "type": "video",
+                    "url": "https://ingolstadttv.iptv-playoutcenter.de/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8",
+                    "name": "intv"
+                },                 
+                {
+                    "type": "video",
+                    "url": " https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/playlist.m3u8",
+                    "name": "Oireachtas TV"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1800_av-p.m3u8?sd=10&rebase=on",
+                    "name": "CBS News"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://granicusliveus12-a.akamaihd.net/king/G0223_002/chunklist.m3u8",
+                    "name": "King County TV"
+                },                 {
+                    "type": "video",
+                    "url": "http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8",
+                    "name": "AAT TV"
+                }, 
+                {
+                    "type": "video",
+                    "url": "https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8",
+                    "name": "Hope Channel North Africa"
+                },                 {
+                    "type": "video",
+                    "url": "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8",
+                    "name": "CMC-USA"
+                },                 
+                {
+                    "type": "video",
+                    "url": " http://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_300_av-p.m3u8",
+                    "name": "Canal 21"
+                },                 
+                {
+                    "type": "video",
+                    "url": " http://media1.sinovision.net:1935/live/livestream/playlist.m3u8",
+                    "name": "美国中文电视"
+                }, 
+                {
+                    "type": "video",
+                    "url": "http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8",
+                    "name": "CBN News"
+                },                 
+
+                {
+                    "type": "video",
+                    "url": "http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8",
+                    "name": "日本卫星剧场"
+                }
+
+
             ]
         },
         {
@@ -4478,7 +4709,12 @@
         {
             "url": "http://m.91kds.cn/index1_gd.html",
             "name": "广东",
-            "list": [
+            "list": [    
+                {
+                    "type":"video",
+                    "url": "http://stream1.grtn.cn/4K/playlist.m3u8",
+                    "name": "广东卫视4K"
+                },
                 {
                     "url": "http://m.91kds.cn/jiemu_gdwshd.html",
                     "name": "广东卫视HD"
