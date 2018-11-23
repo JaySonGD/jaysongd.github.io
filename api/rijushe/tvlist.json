@@ -756,6 +756,11 @@
                     "type": "video",
                     "url": "http://cbn-pb.cbchot.com/live/ch005_1.m3u8",
                     "name": "DOXTV"
+                },  
+                {
+                    "type": "video",
+                    "url": "http://czljcb.p2pcon.com/blibli.php?id=8447120",
+                    "name": "TVB怀旧剧场"
                 },
                 {
                     "type": "video",
