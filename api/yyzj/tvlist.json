@@ -1,5 +1,197 @@
 [
     {
+        "name": "天映频道",
+        "url": "http://www.bddn.cn/typd.htm"
+    },
+    {
+        "name": "CHC高清",
+        "url": "http://www.bddn.cn/chcdy.htm"
+    },
+    {
+        "name": "NVOD电影",
+        "url": "http://www.bddn.cn/nvoddy.htm"
+    },
+    {
+        "name": "珠江电影",
+        "url": "http://www.bddn.cn/zjdy.htm"
+    },
+    {
+        "name": "动作电影",
+        "url": "http://www.bddn.cn/dzdy.htm"
+    },
+    {
+        "name": "亚洲影院",
+        "url": "http://www.bddn.cn/yzyy.htm"
+    },
+    {
+        "name": "欧美影院",
+        "url": "http://www.bddn.cn/omyy.htm"
+    },
+    {
+        "name": "Jade",
+        "url": "http://www.bddn.cn/fct.htm"
+    },
+    {
+        "name": "J2",
+        "url": "http://www.bddn.cn/fcj2.htm"
+    },
+    {
+        "name": "J5",
+        "url": "http://www.bddn.cn/fcj5.htm"
+    },
+    {
+        "name": "Pearl",
+        "url": "http://www.bddn.cn/mzt.htm"
+    },
+    {
+        "name": "News",
+        "url": "http://www.bddn.cn/wxxw.htm"
+    },
+    {
+        "name": "娱乐新闻台",
+        "url": "http://www.bddn.cn/fcylxw.htm"
+    },
+    {
+        "name": "星河台",
+        "url": "http://www.bddn.cn/tvbxh.htm"
+    },
+    {
+        "name": "翡翠国语",
+        "url": "http://bddn.cn/fcpt.htm"
+    },
+    {
+        "name": "TVB经典台",
+        "url": "http://www.bddn.cn/tvbjd.htm"
+    },
+    {
+        "name": "TVB功夫台",
+        "url": "http://www.bddn.cn/tvbkf.htm"
+    },
+    {
+        "name": "TVB星级生活",
+        "url": "http://www.bddn.cn/tvbsh.htm"
+    },
+    {
+        "name": "TVB韩剧",
+        "url": "http://www.bddn.cn/tvbhj.htm"
+    },
+    {
+        "name": "凤凰中文",
+        "url": "http://bddn.cn/fhzw.htm"
+    },
+    {
+        "name": "凤凰资讯",
+        "url": "http://www.bddn.cn/fhzx.htm"
+    },
+    {
+        "name": "凤凰香港",
+        "url": "http://www.bddn.cn/fhxg.htm"
+    },
+    {
+        "name": "凤凰电影",
+        "url": "http://www.bddn.cn/fhdy.htm"
+    },
+    {
+        "name": "有线新闻",
+        "url": "http://www.bddn.cn/yxxw.htm"
+    },
+    {
+        "name": "NOW新闻",
+        "url": "http://www.bddn.cn/nowtv.htm"
+    },
+    {
+        "name": "NOW直播台",
+        "url": "http://www.bddn.cn/nowzb.htm"
+    },
+    {
+        "name": "香港体育",
+        "url": "http://www.bddn.cn/xgty.htm"
+    },
+    {
+        "name": "香港足球",
+        "url": "http://www.bddn.cn/xgzq.htm"
+    },
+    {
+        "name": "香港球彩",
+        "url": "http://www.bddn.cn/xgqc.htm"
+    },
+    {
+        "name": "ViuTV",
+        "url": "http://www.bddn.cn/viutv.htm"
+    },
+    {
+        "name": "香港卫视",
+        "url": "http://www.bddn.cn/xgws.htm"
+    },
+    {
+        "name": "亚太第一卫视",
+        "url": "http://www.bddn.cn/ytdyws.htm"
+    },
+    {
+        "name": "澳门卫视",
+        "url": "http://www.bddn.cn/omws.htm"
+    },
+    {
+        "name": "澳亚卫视",
+        "url": "http://www.bddn.cn/oyws.htm"
+    },
+    {
+        "name": "澳视体育",
+        "url": "http://www.bddn.cn/osty.htm"
+    },
+    {
+        "name": "澳视澳门",
+        "url": "http://www.bddn.cn/osom.htm"
+    },
+    {
+        "name": "澳视高清",
+        "url": "http://www.bddn.cn/osgq.htm"
+    },
+    {
+        "name": "澳视卫星",
+        "url": "http://www.bddn.cn/oswx.htm"
+    },
+    {
+        "name": "澳门莲花",
+        "url": "http://www.bddn.cn/amlh.htm"
+    },
+    {
+        "name": "台湾卫视",
+        "url": "http://www.bddn.cn/ts.htm"
+    },
+    {
+        "name": "台视综合",
+        "url": "http://www.bddn.cn/tszh.htm"
+    },
+    {
+        "name": "中 视",
+        "url": "http://www.bddn.cn/zs.htm"
+    },
+    {
+        "name": "民 视",
+        "url": "http://www.bddn.cn/ms.htm"
+    },
+    {
+        "name": "民视台湾",
+        "url": "http://www.bddn.cn/mstw.htm"
+    },
+    {
+        "name": "民视新闻",
+        "url": "http://www.bddn.cn/msxw.htm"
+    },
+    {
+        "name": "东森新闻",
+        "url": "http://www.bddn.cn/dsxw.htm"
+    },
+    {
+        "name": "壹新闻台",
+        "url": "http://www.bddn.cn/yxwt.htm"
+    },
+    {
+        "name": "TVBS新闻",
+        "url": "http://www.bddn.cn/tvbsxw.htm"
+    },
+    {
         "name": "CCTV-1综合",
         "url": "http://www.bddn.cn/cctv1.htm"
     },
@@ -278,198 +470,6 @@
     {
         "name": "CCTV-6电影",
         "url": "http://www.bddn.cn/cctv6.htm"
-    },
-    {
-        "name": "天映频道",
-        "url": "http://www.bddn.cn/typd.htm"
-    },
-    {
-        "name": "CHC高清",
-        "url": "http://www.bddn.cn/chcdy.htm"
-    },
-    {
-        "name": "NVOD电影",
-        "url": "http://www.bddn.cn/nvoddy.htm"
-    },
-    {
-        "name": "珠江电影",
-        "url": "http://www.bddn.cn/zjdy.htm"
-    },
-    {
-        "name": "动作电影",
-        "url": "http://www.bddn.cn/dzdy.htm"
-    },
-    {
-        "name": "亚洲影院",
-        "url": "http://www.bddn.cn/yzyy.htm"
-    },
-    {
-        "name": "欧美影院",
-        "url": "http://www.bddn.cn/omyy.htm"
-    },
-    {
-        "name": "Jade",
-        "url": "http://www.bddn.cn/fct.htm"
-    },
-    {
-        "name": "J2",
-        "url": "http://www.bddn.cn/fcj2.htm"
-    },
-    {
-        "name": "J5",
-        "url": "http://www.bddn.cn/fcj5.htm"
-    },
-    {
-        "name": "Pearl",
-        "url": "http://www.bddn.cn/mzt.htm"
-    },
-    {
-        "name": "News",
-        "url": "http://www.bddn.cn/wxxw.htm"
-    },
-    {
-        "name": "娱乐新闻台",
-        "url": "http://www.bddn.cn/fcylxw.htm"
-    },
-    {
-        "name": "星河台",
-        "url": "http://www.bddn.cn/tvbxh.htm"
-    },
-    {
-        "name": "翡翠国语",
-        "url": "http://bddn.cn/fcpt.htm"
-    },
-    {
-        "name": "TVB经典台",
-        "url": "http://www.bddn.cn/tvbjd.htm"
-    },
-    {
-        "name": "TVB功夫台",
-        "url": "http://www.bddn.cn/tvbkf.htm"
-    },
-    {
-        "name": "TVB星级生活",
-        "url": "http://www.bddn.cn/tvbsh.htm"
-    },
-    {
-        "name": "TVB韩剧",
-        "url": "http://www.bddn.cn/tvbhj.htm"
-    },
-    {
-        "name": "凤凰中文",
-        "url": "http://bddn.cn/fhzw.htm"
-    },
-    {
-        "name": "凤凰资讯",
-        "url": "http://www.bddn.cn/fhzx.htm"
-    },
-    {
-        "name": "凤凰香港",
-        "url": "http://www.bddn.cn/fhxg.htm"
-    },
-    {
-        "name": "凤凰电影",
-        "url": "http://www.bddn.cn/fhdy.htm"
-    },
-    {
-        "name": "有线新闻",
-        "url": "http://www.bddn.cn/yxxw.htm"
-    },
-    {
-        "name": "NOW新闻",
-        "url": "http://www.bddn.cn/nowtv.htm"
-    },
-    {
-        "name": "NOW直播台",
-        "url": "http://www.bddn.cn/nowzb.htm"
-    },
-    {
-        "name": "香港体育",
-        "url": "http://www.bddn.cn/xgty.htm"
-    },
-    {
-        "name": "香港足球",
-        "url": "http://www.bddn.cn/xgzq.htm"
-    },
-    {
-        "name": "香港球彩",
-        "url": "http://www.bddn.cn/xgqc.htm"
-    },
-    {
-        "name": "ViuTV",
-        "url": "http://www.bddn.cn/viutv.htm"
-    },
-    {
-        "name": "香港卫视",
-        "url": "http://www.bddn.cn/xgws.htm"
-    },
-    {
-        "name": "亚太第一卫视",
-        "url": "http://www.bddn.cn/ytdyws.htm"
-    },
-    {
-        "name": "澳门卫视",
-        "url": "http://www.bddn.cn/omws.htm"
-    },
-    {
-        "name": "澳亚卫视",
-        "url": "http://www.bddn.cn/oyws.htm"
-    },
-    {
-        "name": "澳视体育",
-        "url": "http://www.bddn.cn/osty.htm"
-    },
-    {
-        "name": "澳视澳门",
-        "url": "http://www.bddn.cn/osom.htm"
-    },
-    {
-        "name": "澳视高清",
-        "url": "http://www.bddn.cn/osgq.htm"
-    },
-    {
-        "name": "澳视卫星",
-        "url": "http://www.bddn.cn/oswx.htm"
-    },
-    {
-        "name": "澳门莲花",
-        "url": "http://www.bddn.cn/amlh.htm"
-    },
-    {
-        "name": "台湾卫视",
-        "url": "http://www.bddn.cn/ts.htm"
-    },
-    {
-        "name": "台视综合",
-        "url": "http://www.bddn.cn/tszh.htm"
-    },
-    {
-        "name": "中 视",
-        "url": "http://www.bddn.cn/zs.htm"
-    },
-    {
-        "name": "民 视",
-        "url": "http://www.bddn.cn/ms.htm"
-    },
-    {
-        "name": "民视台湾",
-        "url": "http://www.bddn.cn/mstw.htm"
-    },
-    {
-        "name": "民视新闻",
-        "url": "http://www.bddn.cn/msxw.htm"
-    },
-    {
-        "name": "东森新闻",
-        "url": "http://www.bddn.cn/dsxw.htm"
-    },
-    {
-        "name": "壹新闻台",
-        "url": "http://www.bddn.cn/yxwt.htm"
-    },
-    {
-        "name": "TVBS新闻",
-        "url": "http://www.bddn.cn/tvbsxw.htm"
     },
     {
         "name": "安徽卫视",
