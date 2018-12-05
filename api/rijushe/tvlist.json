@@ -585,7 +585,8 @@
                     "url": "http://m.567it.com/Pearl.m3u8"
                 },
                 { 
-                    "url": "http://www.bddn.cn/fcylxw.htm",
+                	"type": "video",
+                    "url": "http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil",
                     "name": "娱乐新闻台"
                 },
                 {
@@ -650,9 +651,9 @@
 
                 {
                     "type": "video",
-                    "name": "TVB功夫台",
-                    "url1": "http://weblive.hebtv.com/live/Asianaction/index.m3u8",
-                    "url": "http://61.239.34.195:36570/hls/B12SV.m3u8?ex=1542985633&st=WbFjLqB-OPD_28OgSFGl5w"
+                    "name": "TVB功夫台-别上当受骗",
+                    "url": "http://weblive.hebtv.com/live/Asianaction/index.m3u8",
+                    "url1": "http://61.239.34.195:36570/hls/B12SV.m3u8?ex=1542985633&st=WbFjLqB-OPD_28OgSFGl5w"
 
                 },
                 {
