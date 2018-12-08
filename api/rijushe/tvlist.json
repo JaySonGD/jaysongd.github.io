@@ -550,7 +550,7 @@
                 {
                     "type": "video",
                     "vip": 1,
-                    "url": "http://edge19-1.edgeware.hk4.tvb.com/session/196e1796-fab8-11e8-8e8b-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/chunklist_b491520.m3u8&file=.m3u8",
+                    "url": "http://edge19-1.edgeware.hk4.tvb.com/session/bf29a0a2-fada-11e8-a38e-0050569023d7/qh33qv/newslive/smil:mobile_inews.smil/playlist.m3u8?token=8c0285ea6028993c54fbd0135a121944_1544354205_1544354205",
                     "name": "无线新闻台"
                 },
                 {
