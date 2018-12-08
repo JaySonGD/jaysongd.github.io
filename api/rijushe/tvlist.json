@@ -544,13 +544,13 @@
                 },
                 {
                     "type": "video",
-                    "vip": 0,
                     "name": "无线新闻台",
                     "url": "https://zeroys.top/omg/Zerotvb.php?zero=inews"
                 },
                 {
                     "type": "video",
-                    "url": "http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1543746926~exp=1543833326~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4acbe4abdff0678e95f5dd6721a5e9222456af9a96db0a00146cefa50259b859",
+                    "vip": 1,
+                    "url": "http://edge19-1.edgeware.hk4.tvb.com/session/196e1796-fab8-11e8-8e8b-005056b12cf7/qh33qv/newslive/smil:mobile_inews.smil/chunklist_b491520.m3u8&file=.m3u8",
                     "name": "无线新闻台"
                 },
                 {
