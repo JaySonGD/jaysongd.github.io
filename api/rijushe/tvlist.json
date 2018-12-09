@@ -6,6 +6,7 @@
     ],
     "js": [
                 "var tvbheader = document.getElementsByClassName('header')[0];tvbheader.parentNode.removeChild(tvbheader);",
+                "var categoryTitle = document.getElementsByClassName('categoryTitle')[0];categoryTitle.parentNode.removeChild(categoryTitle);",
                 "var videoQuality = document.getElementById('videoQuality');videoQuality.parentNode.removeChild(videoQuality);",
                 "var c1_afterplayer = document.getElementById('c1_afterplayer');c1_afterplayer.parentNode.removeChild(c1_afterplayer);",
                 "var live_all = document.getElementById('live-all');live_all.parentNode.removeChild(live_all);",
