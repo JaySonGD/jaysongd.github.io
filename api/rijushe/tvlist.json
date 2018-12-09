@@ -5,6 +5,14 @@
         "alipay.com"
     ],
     "js": [
+                "var tvbheader = document.getElementsByClassName('header')[0];tvbheader.parentNode.removeChild(tvbheader);",
+                "var videoQuality = document.getElementById('videoQuality');videoQuality.parentNode.removeChild(videoQuality);",
+                "var c1_afterplayer = document.getElementById('c1_afterplayer');c1_afterplayer.parentNode.removeChild(c1_afterplayer);",
+                "var live_all = document.getElementById('live-all');live_all.parentNode.removeChild(live_all);",
+                "var ssGroup = document.getElementById('ssGroup');ssGroup.parentNode.removeChild(ssGroup);",
+                "var container_c2 = document.getElementsByClassName('container c2')[0];container_c2.parentNode.removeChild(container_c2);",
+                "var tvbfooter = document.getElementsByClassName('footer')[0];tvbfooter.parentNode.removeChild(tvbfooter);",
+
         "var navbar = document.getElementsByClassName('ui-navbar')[0];navbar.parentNode.removeChild(navbar);",
         "var search = document.getElementsByClassName('ui-input-search')[0];search.parentNode.removeChild(search);",
         "var header = document.getElementsByClassName('ui-header')[0];header.parentNode.removeChild(header);",
@@ -2005,6 +2013,14 @@
                 {
                     "url": "http://m.iptv201.com/tv.php?act=home",
                     "name": "综合"
+                },
+                {
+                    "url": "http://news.tvb.com/live/inews?is_hd",
+                    "name": "无线新闻HD"
+                },
+                {
+                    "url": "http://news.tvb.com/live/inews",
+                    "name": "无线新闻SD"
                 }
             ]
         },
