@@ -562,6 +562,14 @@
                     "name": "无线新闻台"
                 },
                 {
+                    "url": "http://news.tvb.com/live/inews",
+                    "name": "无线新闻SD"
+                },
+                {
+                    "url": "http://news.tvb.com/live/j5_ch85",
+                    "name": "無綫財經 · 資訊台SD"
+                },
+                {
                     "type": "video",
                     "vip": 0,
                     "url": "http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8",
@@ -2019,16 +2027,8 @@
                     "name": "无线新闻HD"
                 },
                 {
-                    "url": "http://news.tvb.com/live/inews",
-                    "name": "无线新闻SD"
-                },
-                {
                     "url": "http://news.tvb.com/live/j5_ch85?is_hd",
                     "name": "無綫財經 · 資訊台HD"
-                },
-                {
-                    "url": "http://news.tvb.com/live/j5_ch85",
-                    "name": "無綫財經 · 資訊台SD"
                 }
             ]
         },
