@@ -2021,6 +2021,14 @@
                 {
                     "url": "http://news.tvb.com/live/inews",
                     "name": "无线新闻SD"
+                },
+                {
+                    "url": "http://news.tvb.com/live/j5_ch85?is_hd",
+                    "name": "無綫財經 · 資訊台HD"
+                },
+                {
+                    "url": "http://news.tvb.com/live/j5_ch85",
+                    "name": "無綫財經 · 資訊台SD"
                 }
             ]
         },
