@@ -626,6 +626,16 @@
                     "name": "tvbxh",
                     "url": "http://59.125.55.79:60001/60002.m3u8"
                 },
+                {
+                    "type": "video",
+                    "name": "NowTV综合台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
+                },
+                {
+                    "type": "video",
+                    "name": "NowTV华剧台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8"
+                },
 
 
                 {
