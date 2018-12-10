@@ -28,7 +28,15 @@
                                  "/share/",
                                  "/embed/",
                                  "api.52088cj.com"
-                                 ]
+                                 ],
+                        "js": [
+                                "var navbar = document.getElementsByClassName('ui-navbar')[0];navbar.parentNode.removeChild(navbar);",
+                                "var search = document.getElementsByClassName('ui-input-search')[0];search.parentNode.removeChild(search);",
+                                "var header = document.getElementsByClassName('ui-header')[0];header.parentNode.removeChild(header);",
+                                "var footer = document.getElementsByClassName('ui-footer')[0];footer.parentNode.removeChild(footer);",
+                                "var listview = document.getElementById('myEpg');listview.parentNode.removeChild(listview);"
+                            ]
+
                     },
                     {
                     "stop":true,
