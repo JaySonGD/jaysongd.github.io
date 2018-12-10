@@ -5,6 +5,15 @@
         "alipay.com"
     ],
     "js": [
+                "var tvbheader = document.getElementsByClassName('header')[0];tvbheader.parentNode.removeChild(tvbheader);",
+                "var categoryTitle = document.getElementsByClassName('categoryTitle')[0];categoryTitle.parentNode.removeChild(categoryTitle);",
+                "var videoQuality = document.getElementById('videoQuality');videoQuality.parentNode.removeChild(videoQuality);",
+                "var c1_afterplayer = document.getElementById('c1_afterplayer');c1_afterplayer.parentNode.removeChild(c1_afterplayer);",
+                "var live_all = document.getElementById('live-all');live_all.parentNode.removeChild(live_all);",
+                "var ssGroup = document.getElementById('ssGroup');ssGroup.parentNode.removeChild(ssGroup);",
+                "var container_c2 = document.getElementsByClassName('container c2')[0];container_c2.parentNode.removeChild(container_c2);",
+                "var tvbfooter = document.getElementsByClassName('footer')[0];tvbfooter.parentNode.removeChild(tvbfooter);",
+
         "var navbar = document.getElementsByClassName('ui-navbar')[0];navbar.parentNode.removeChild(navbar);",
         "var search = document.getElementsByClassName('ui-input-search')[0];search.parentNode.removeChild(search);",
         "var header = document.getElementsByClassName('ui-header')[0];header.parentNode.removeChild(header);",
@@ -544,19 +553,27 @@
                 },
                 {
                     "type": "video",
-                    "vip": 0,
                     "name": "无线新闻台",
                     "url": "https://zeroys.top/omg/Zerotvb.php?zero=inews"
                 },
                 {
                     "type": "video",
-                    "url": "http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1543746926~exp=1543833326~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=4acbe4abdff0678e95f5dd6721a5e9222456af9a96db0a00146cefa50259b859",
+                    "vip": 1,
+                    "url": "http://edge20-1.edgeware.hk4.tvb.com:80/session/739808de-fba4-11e8-99e4-005056903a13/qh33qv/newslive/smil:mobilehd_inews.smil/playlist.m3u8?token=aacbd42689fdcc1647b053703f1df9e3_1544440836_1544440836",
                     "name": "无线新闻台"
+                },
+                {
+                    "url": "http://news.tvb.com/live/inews",
+                    "name": "无线新闻SD"
+                },
+                {
+                    "url": "http://news.tvb.com/live/j5_ch85",
+                    "name": "無綫財經 · 資訊台SD"
                 },
                 {
                     "type": "video",
                     "vip": 0,
-                    "url": "http://al3-flv.live.huajiao.com/live/channel10890201.m3u8",
+                    "url": "http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8",
                     "name": "有线新闻"
                 },
                 {
@@ -2005,6 +2022,14 @@
                 {
                     "url": "http://m.iptv201.com/tv.php?act=home",
                     "name": "综合"
+                },
+                {
+                    "url": "http://news.tvb.com/live/inews?is_hd",
+                    "name": "无线新闻HD"
+                },
+                {
+                    "url": "http://news.tvb.com/live/j5_ch85?is_hd",
+                    "name": "無綫財經 · 資訊台HD"
                 }
             ]
         },
