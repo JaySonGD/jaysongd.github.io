@@ -586,16 +586,14 @@
                 {
                     "type": "video",
                     "vip": 0,
-                    "url": "http://pullhls2.ingkee.com/live/1535033221510929/playlist.m3u8",
-                    "url2": "http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8",
+                    "url": "http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8",
                     "url1": "http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
                     "vip": 0,
-                    "url": "http://pullhls2.ingkee.com/live/1535033221510929/playlist.m3u8",
-                    "url1": "http://219.153.111.213/atv/01kjzcom__redirect__1392.m3u8",
+                    "url": "http://219.153.111.213/atv/01kjzcom__redirect__1392.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
@@ -644,7 +642,6 @@
                     "type": "video",
                     "name": "603HD",
                     "url": "http://pullhls2.ingkee.com/live/1555033203210929/playlist.m3u8",
-                    "url1": "http://al3-flv.live.huajiao.com/live/channel10890303.m3u8"
                 },
                 {
                     "type": "video",
@@ -665,21 +662,20 @@
                     "type": "video",
                     "name": "viuTV",
                     "url": "http://pullhls2.ingkee.com/live/1535033827610929/playlist.m3u8",
-                    "url1": "http://al3-flv.live.huajiao.com/live/channel10890707.m3u8"
                 },
                 {
                     "type": "video",
-                    "url": "http://pullhls2.ingkee.com/live/1535033875110929/playlist.m3u8",
+                    "url": "http://60.250.69.26:8080/live/startmovie89.m3u8",
                     "name": "粤语长片"
                 }, 
                 {
                     "type": "video",
-                    "url": "http://live.lzep.cn/live/3811_channel1356.m3u8",
+                    "url": "http://60.250.69.26:8080/live/startchines89.m3u8",
                     "name": "粤语電影"
                 }, 
              	{
                     "type": "video",
-                    "url": "http://pullhls2.ingkee.com/live/1535033206110929/playlist.m3u8",
+                    "url": "http://60.250.69.26:8080/live/startfamily89.m3u8",
                     "name": "有线電影"
                 }, 
 
@@ -688,8 +684,6 @@
                     "type": "video",
                     "name": "TVB功夫台-别上当受骗",
                     "url": "http://pullhls2.ingkee.com/live/1535033871610929/playlist.m3u8",
-                    "url2": "http://weblive.hebtv.com/live/Asianaction/index.m3u8",
-                    "url1": "http://61.239.34.195:36570/hls/B12SV.m3u8?ex=1542985633&st=WbFjLqB-OPD_28OgSFGl5w"
 
                 },
                 {
