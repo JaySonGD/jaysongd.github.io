@@ -47,7 +47,7 @@
                 },
                 {
                     "type": "video",
-                    "url": "http://m.567it.com/videoi-news.php",
+                    "url": "http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1547884342~exp=1547970742~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=3960abf02a399ed078de9dde6f637ea2fa455fbf069ba565d6fe2803c601c274",
                     "name": "无线新闻台"
                 },
                 {
