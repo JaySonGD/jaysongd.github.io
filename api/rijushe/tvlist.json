@@ -25,6 +25,17 @@
         "var uicontent = document.getElementsByClassName('ui-content')[0];uicontent.setAttribute(\"style\",\"padding-top: 0px; background-color: black; min-height: 0px;\");"
     ],
     "data": [
+
+        {
+            "url": "",
+            "name": "推荐",
+            "list": [
+                {
+                    "url": "http://www.bddn.cn/zb.htm",
+                    "name": "聚合"
+                }
+            ]
+        },
         {
             "url": "http://m.91kds.cn/index2_xg.html",
             "name": "香港",
