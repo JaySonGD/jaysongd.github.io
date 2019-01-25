@@ -29,12 +29,2038 @@
         {
             "url": "",
             "name": "推荐",
-            "list": [
-                {
-                    "url": "http://www.bddn.cn/zb.htm",
-                    "name": "聚合"
-                }
-            ]
+            "list": 
+    {
+        "name": "天映频道",
+        "url": "http://www.bddn.cn/typd.htm"
+    },
+    {
+        "name": "CHC高清",
+        "url": "http://www.bddn.cn/chcdy.htm"
+    },
+    {
+        "name": "NVOD电影",
+        "url": "http://www.bddn.cn/nvoddy.htm"
+    },
+    {
+        "name": "珠江电影",
+        "url": "http://www.bddn.cn/zjdy.htm"
+    },
+    {
+        "name": "动作电影",
+        "url": "http://www.bddn.cn/dzdy.htm"
+    },
+    {
+        "name": "亚洲影院",
+        "url": "http://www.bddn.cn/yzyy.htm"
+    },
+    {
+        "name": "欧美影院",
+        "url": "http://www.bddn.cn/omyy.htm"
+    },
+    {
+        "name": "Jade",
+        "url": "http://www.bddn.cn/fct.htm"
+    },
+    {
+        "name": "J2",
+        "url": "http://www.bddn.cn/fcj2.htm"
+    },
+    {
+        "name": "J5",
+        "url": "http://www.bddn.cn/fcj5.htm"
+    },
+    {
+        "name": "Pearl",
+        "url": "http://www.bddn.cn/mzt.htm"
+    },
+    {
+        "name": "News",
+        "url": "http://www.bddn.cn/wxxw.htm"
+    },
+    {
+        "name": "娱乐新闻台",
+        "url": "http://www.bddn.cn/fcylxw.htm"
+    },
+    {
+        "name": "星河台",
+        "url": "http://www.bddn.cn/tvbxh.htm"
+    },
+    {
+        "name": "翡翠国语",
+        "url": "http://bddn.cn/fcpt.htm"
+    },
+    {
+        "name": "TVB经典台",
+        "url": "http://www.bddn.cn/tvbjd.htm"
+    },
+    {
+        "name": "TVB功夫台",
+        "url": "http://www.bddn.cn/tvbkf.htm"
+    },
+    {
+        "name": "TVB星级生活",
+        "url": "http://www.bddn.cn/tvbsh.htm"
+    },
+    {
+        "name": "TVB韩剧",
+        "url": "http://www.bddn.cn/tvbhj.htm"
+    },
+    {
+        "name": "凤凰中文",
+        "url": "http://bddn.cn/fhzw.htm"
+    },
+    {
+        "name": "凤凰资讯",
+        "url": "http://www.bddn.cn/fhzx.htm"
+    },
+    {
+        "name": "凤凰香港",
+        "url": "http://www.bddn.cn/fhxg.htm"
+    },
+    {
+        "name": "凤凰电影",
+        "url": "http://www.bddn.cn/fhdy.htm"
+    },
+    {
+        "name": "有线新闻",
+        "url": "http://www.bddn.cn/yxxw.htm"
+    },
+    {
+        "name": "NOW新闻",
+        "url": "http://www.bddn.cn/nowtv.htm"
+    },
+    {
+        "name": "NOW直播台",
+        "url": "http://www.bddn.cn/nowzb.htm"
+    },
+    {
+        "name": "香港体育",
+        "url": "http://www.bddn.cn/xgty.htm"
+    },
+    {
+        "name": "香港足球",
+        "url": "http://www.bddn.cn/xgzq.htm"
+    },
+    {
+        "name": "香港球彩",
+        "url": "http://www.bddn.cn/xgqc.htm"
+    },
+    {
+        "name": "ViuTV",
+        "url": "http://www.bddn.cn/viutv.htm"
+    },
+    {
+        "name": "香港卫视",
+        "url": "http://www.bddn.cn/xgws.htm"
+    },
+    {
+        "name": "亚太第一卫视",
+        "url": "http://www.bddn.cn/ytdyws.htm"
+    },
+    {
+        "name": "澳门卫视",
+        "url": "http://www.bddn.cn/omws.htm"
+    },
+    {
+        "name": "澳亚卫视",
+        "url": "http://www.bddn.cn/oyws.htm"
+    },
+    {
+        "name": "澳视体育",
+        "url": "http://www.bddn.cn/osty.htm"
+    },
+    {
+        "name": "澳视澳门",
+        "url": "http://www.bddn.cn/osom.htm"
+    },
+    {
+        "name": "澳视高清",
+        "url": "http://www.bddn.cn/osgq.htm"
+    },
+    {
+        "name": "澳视卫星",
+        "url": "http://www.bddn.cn/oswx.htm"
+    },
+    {
+        "name": "澳门莲花",
+        "url": "http://www.bddn.cn/amlh.htm"
+    },
+    {
+        "name": "台湾卫视",
+        "url": "http://www.bddn.cn/ts.htm"
+    },
+    {
+        "name": "台视综合",
+        "url": "http://www.bddn.cn/tszh.htm"
+    },
+    {
+        "name": "中 视",
+        "url": "http://www.bddn.cn/zs.htm"
+    },
+    {
+        "name": "民 视",
+        "url": "http://www.bddn.cn/ms.htm"
+    },
+    {
+        "name": "民视台湾",
+        "url": "http://www.bddn.cn/mstw.htm"
+    },
+    {
+        "name": "民视新闻",
+        "url": "http://www.bddn.cn/msxw.htm"
+    },
+    {
+        "name": "东森新闻",
+        "url": "http://www.bddn.cn/dsxw.htm"
+    },
+    {
+        "name": "壹新闻台",
+        "url": "http://www.bddn.cn/yxwt.htm"
+    },
+    {
+        "name": "TVBS新闻",
+        "url": "http://www.bddn.cn/tvbsxw.htm"
+    },
+    {
+        "name": "CCTV-1综合",
+        "url": "http://www.bddn.cn/cctv1.htm"
+    },
+    {
+        "name": "CCTV-2财经",
+        "url": "http://www.bddn.cn/cctv2.htm"
+    },
+    {
+        "name": "CCTV-3综艺",
+        "url": "http://www.bddn.cn/cctv3.htm"
+    },
+    {
+        "name": "CCTV-4中文国际",
+        "url": "http://www.bddn.cn/cctv4.htm"
+    },
+    {
+        "name": "CCTV-5体育",
+        "url": "http://www.bddn.cn/cctv5.htm"
+    },
+    {
+        "name": "CCTV-6电影",
+        "url": "http://www.bddn.cn/cctv6.htm"
+    },
+    {
+        "name": "CCTV-7军事与农业",
+        "url": "http://www.bddn.cn/cctv7.htm"
+    },
+    {
+        "name": "CCTV-8电视剧",
+        "url": "http://www.bddn.cn/cctv8.htm"
+    },
+    {
+        "name": "CCTV-9纪录",
+        "url": "http://www.bddn.cn/cctv9.htm"
+    },
+    {
+        "name": "CCTV-10科教",
+        "url": "http://www.bddn.cn/cctv10.htm"
+    },
+    {
+        "name": "CCTV-11戏曲",
+        "url": "http://www.bddn.cn/cctv11.htm"
+    },
+    {
+        "name": "CCTV-12社会与法",
+        "url": "http://www.bddn.cn/cctv12.htm"
+    },
+    {
+        "name": "CCTV-13新闻",
+        "url": "http://www.bddn.cn/cctv13.htm"
+    },
+    {
+        "name": "CCTV-14少儿",
+        "url": "http://www.bddn.cn/cctv14.htm"
+    },
+    {
+        "name": "CCTV-15音乐",
+        "url": "http://www.bddn.cn/cctv15.htm"
+    },
+    {
+        "name": "湖南卫视",
+        "url": "http://www.bddn.cn/hnws.htm"
+    },
+    {
+        "name": "江苏卫视",
+        "url": "http://www.bddn.cn/jsws.htm"
+    },
+    {
+        "name": "浙江卫视",
+        "url": "http://www.bddn.cn/zjws.htm"
+    },
+    {
+        "name": "东方卫视",
+        "url": "http://www.bddn.cn/dfws.htm"
+    },
+    {
+        "name": "广东卫视",
+        "url": "http://www.bddn.cn/gdws.htm"
+    },
+    {
+        "name": "深圳卫视",
+        "url": "http://www.bddn.cn/szws.htm"
+    },
+    {
+        "name": "北京卫视",
+        "url": "http://www.bddn.cn/bjws.htm"
+    },
+    {
+        "name": "天津卫视",
+        "url": "http://www.bddn.cn/tjws.htm"
+    },
+    {
+        "name": "山东卫视",
+        "url": "http://www.bddn.cn/sdws.htm"
+    },
+    {
+        "name": "湖北卫视",
+        "url": "http://www.bddn.cn/hbtv.htm"
+    },
+    {
+        "name": "河北卫视",
+        "url": "http://www.bddn.cn/hbws.htm"
+    },
+    {
+        "name": "贵州卫视",
+        "url": "http://www.bddn.cn/gzws.htm"
+    },
+    {
+        "name": "黑龙江卫视",
+        "url": "http://www.bddn.cn/hljws.htm"
+    },
+    {
+        "name": "广州综合",
+        "url": "http://www.bddn.cn/gzzh.htm"
+    },
+    {
+        "name": "山西卫视",
+        "url": "http://www.bddn.cn/sxws.htm"
+    },
+    {
+        "name": "辽宁卫视",
+        "url": "http://www.bddn.cn/lnws.htm"
+    },
+    {
+        "name": "安徽卫视",
+        "url": "http://www.bddn.cn/ahws.htm"
+    },
+    {
+        "name": "青海卫视",
+        "url": "http://www.bddn.cn/qhws.htm"
+    },
+    {
+        "name": "云南卫视",
+        "url": "http://www.bddn.cn/ynws.htm"
+    },
+    {
+        "name": "江西卫视",
+        "url": "http://www.bddn.cn/jxws.htm"
+    },
+    {
+        "name": "河南卫视",
+        "url": "http://www.bddn.cn/hntv.htm"
+    },
+    {
+        "name": "陕西卫视",
+        "url": "http://www.bddn.cn/sxtv.htm"
+    },
+    {
+        "name": "吉林卫视",
+        "url": "http://www.bddn.cn/jlws.htm"
+    },
+    {
+        "name": "广西卫视",
+        "url": "http://www.bddn.cn/gxws.htm"
+    },
+    {
+        "name": "西藏卫视",
+        "url": "http://www.bddn.cn/xzws.htm"
+    },
+    {
+        "name": "内蒙古卫视",
+        "url": "http://www.bddn.cn/nmg.htm"
+    },
+    {
+        "name": "四川卫视",
+        "url": "http://www.bddn.cn/scws.htm"
+    },
+    {
+        "name": "宁夏卫视",
+        "url": "http://www.bddn.cn/nxws.htm"
+    },
+    {
+        "name": "甘肃卫视",
+        "url": "http://www.bddn.cn/gsws.htm"
+    },
+    {
+        "name": "重庆卫视",
+        "url": "http://www.bddn.cn/cqws.htm"
+    },
+    {
+        "name": "新疆卫视",
+        "url": "http://www.bddn.cn/xjws.htm"
+    },
+    {
+        "name": "旅游卫视",
+        "url": "http://www.bddn.cn/lyws.htm"
+    },
+    {
+        "name": "兵团卫视",
+        "url": "http://www.bddn.cn/btws.htm"
+    },
+    {
+        "name": "康巴卫视",
+        "url": "http://www.bddn.cn/kbws.htm"
+    },
+    {
+        "name": "星空卫视",
+        "url": "http://www.bddn.cn/xkws.htm"
+    },
+    {
+        "name": "东南卫视",
+        "url": "http://www.bddn.cn/dnws.htm"
+    },
+    {
+        "name": "CCTV-5体育",
+        "url": "http://www.bddn.cn/cctv5.htm"
+    },
+    {
+        "name": "CCTV5 +",
+        "url": "http://www.bddn.cn/cctv5j.htm"
+    },
+    {
+        "name": "风云足球",
+        "url": "http://www.bddn.cn/fyzq.htm"
+    },
+    {
+        "name": "广东体育",
+        "url": "http://www.bddn.cn/gdty.htm"
+    },
+    {
+        "name": "五星体育",
+        "url": "http://www.bddn.cn/wxty.htm"
+    },
+    {
+        "name": "北京体育",
+        "url": "http://www.bddn.cn/bjty.htm"
+    },
+    {
+        "name": "劲爆体育",
+        "url": "http://www.bddn.cn/jbty.htm"
+    },
+    {
+        "name": "广州竞赛",
+        "url": "http://www.bddn.cn/gzjs.htm"
+    },
+    {
+        "name": "纬来体育",
+        "url": "http://www.bddn.cn/wlty.htm"
+    },
+    {
+        "name": "新视觉体育",
+        "url": "http://www.bddn.cn/xsjty.htm"
+    },
+    {
+        "name": "深圳体育",
+        "url": "http://www.bddn.cn/szty1.htm"
+    },
+    {
+        "name": "江苏体育",
+        "url": "http://www.bddn.cn/jsty.htm"
+    },
+    {
+        "name": "山东体育",
+        "url": "http://www.bddn.cn/sdty.htm"
+    },
+    {
+        "name": "辽宁体育",
+        "url": "http://www.bddn.cn/lnty.htm"
+    },
+    {
+        "name": "天津体育",
+        "url": "http://www.bddn.cn/tjty.htm"
+    },
+    {
+        "name": "新疆体育",
+        "url": "http://www.bddn.cn/xjty.htm"
+    },
+    {
+        "name": "武汉文体",
+        "url": "http://www.bddn.cn/whty.htm"
+    },
+    {
+        "name": "大连文体",
+        "url": "http://www.dltv.cn/live/kds_genres.shtml"
+    },
+    {
+        "name": "CCTV-6电影",
+        "url": "http://www.bddn.cn/cctv6.htm"
+    },
+    {
+        "name": "安徽卫视",
+        "url": "http://www.bddn.cn/ahws.htm"
+    },
+    {
+        "name": "安徽影视",
+        "url": "http://v.ahtv.cn/live/yslive/"
+    },
+    {
+        "name": "安徽经济生活",
+        "url": "http://v.ahtv.cn/live/jjlive"
+    },
+    {
+        "name": "安徽综艺",
+        "url": "http://v.ahtv.cn/live/zylive/"
+    },
+    {
+        "name": "安徽科教",
+        "url": "http://v.ahtv.cn/live/kjlive"
+    },
+    {
+        "name": "安徽公共",
+        "url": "http://v.ahtv.cn/live/gglive"
+    },
+    {
+        "name": "安徽人物",
+        "url": "http://v.ahtv.cn/live/rwlive"
+    },
+    {
+        "name": "安徽国际",
+        "url": "http://www.bddn.cn/ahgj.htm"
+    },
+    {
+        "name": "安徽移动电视",
+        "url": "http://v.ahtv.cn/live/ydlive"
+    },
+    {
+        "name": "北京卫视",
+        "url": "http://www.bddn.cn/bjws.htm"
+    },
+    {
+        "name": "北京文艺",
+        "url": "http://www.bddn.cn/bjwy.htm"
+    },
+    {
+        "name": "北京科教",
+        "url": "http://www.bddn.cn/bjkj.htm"
+    },
+    {
+        "name": "北京影视",
+        "url": "http://www.bddn.cn/bjys.htm"
+    },
+    {
+        "name": "北京财经",
+        "url": "http://www.bddn.cn/bjcj.htm"
+    },
+    {
+        "name": "北京体育",
+        "url": "http://www.bddn.cn/bjty.htm"
+    },
+    {
+        "name": "北京生活",
+        "url": "http://www.bddn.cn/bjsh.htm"
+    },
+    {
+        "name": "北京青年",
+        "url": "http://www.bddn.cn/bjqn.htm"
+    },
+    {
+        "name": "北京新闻",
+        "url": "http://www.bddn.cn/bjxw.htm"
+    },
+    {
+        "name": "甘肃卫视",
+        "url": "http://www.gstv.com.cn/folder3/"
+    },
+    {
+        "name": "甘肃经济频道",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder30/"
+    },
+    {
+        "name": "甘肃都市频道",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder31/"
+    },
+    {
+        "name": "甘肃少儿频道",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder32/"
+    },
+    {
+        "name": "甘肃公共频道",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder33/"
+    },
+    {
+        "name": "甘肃文化影视",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder34/"
+    },
+    {
+        "name": "甘肃移动电视",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder389/"
+    },
+    {
+        "name": "甘肃品质生活",
+        "url": "http://www.gstv.com.cn/folder3/folder22/folder390/"
+    },
+    {
+        "name": "东南卫视",
+        "url": "http://www.bddn.cn/dnws.htm"
+    },
+    {
+        "name": "海峡卫视",
+        "url": "http://www.bddn.cn/hxws.htm"
+    },
+    {
+        "name": "福建综合",
+        "url": "http://1.fjtv.net/"
+    },
+    {
+        "name": "福建公共",
+        "url": "http://ggpd.fjtv.net/"
+    },
+    {
+        "name": "福建新闻",
+        "url": "http://news.fjtv.net/"
+    },
+    {
+        "name": "福建电视剧",
+        "url": "http://www.bddn.cn/fjdsj.htm"
+    },
+    {
+        "name": "福建旅游",
+        "url": "ttp://dspd.fjtv.net/"
+    },
+    {
+        "name": "福建经济",
+        "url": "http://www.fjtv.net/folder526/folder533/"
+    },
+    {
+        "name": "福建体育",
+        "url": "http://live.fjtv.net/typd"
+    },
+    {
+        "name": "福建少儿",
+        "url": "http://fj-9.fjtv.net/"
+    },
+    {
+        "name": "重庆卫视",
+        "url": "http://www.bddn.cn/cqws.htm"
+    },
+    {
+        "name": "重庆新闻",
+        "url": "http://www.bddn.cn/cqxw.htm"
+    },
+    {
+        "name": "重庆都市",
+        "url": "http://www.bddn.cn/cqds.htm"
+    },
+    {
+        "name": "重庆科教",
+        "url": "http://www.bddn.cn/cqkj.htm"
+    },
+    {
+        "name": "重庆影视",
+        "url": "http://www.bddn.cn/cqys.htm"
+    },
+    {
+        "name": "重庆文娱",
+        "url": "http://www.bddn.cn/cqwy.htm"
+    },
+    {
+        "name": "重庆生活",
+        "url": "http://www.bddn.cn/cqsh.htm"
+    },
+    {
+        "name": "重庆汽摩",
+        "url": "http://www.bddn.cn/cqqm.htm"
+    },
+    {
+        "name": "重庆少儿",
+        "url": "http://www.bddn.cn/cqse.htm"
+    },
+    {
+        "name": "重庆移动",
+        "url": "http://www.bddn.cn/cqyd.htm"
+    },
+    {
+        "name": "重庆公共",
+        "url": "http://www.bddn.cn/cqgg.htm"
+    },
+    {
+        "name": "重庆手持电视",
+        "url": "http://www.bddn.cn/cqsc.htm"
+    },
+    {
+        "name": "重庆时尚",
+        "url": "http://www.bddn.cn/cqss.htm"
+    },
+    {
+        "name": "广东卫视",
+        "url": "http://star.gdtv.cn/"
+    },
+    {
+        "name": "深圳卫视",
+        "url": "http://www.bddn.cn/szws.htm"
+    },
+    {
+        "name": "TVS-1 经济",
+        "url": "http://www.gdtv.cn/tv/tvs1/"
+    },
+    {
+        "name": "TVS-2 南方",
+        "url": "http://www.gdtv.cn/tv/tvs2/"
+    },
+    {
+        "name": "TVS-3 综艺",
+        "url": "http://www.gdtv.cn/tv/tvs3/"
+    },
+    {
+        "name": "TVS-4 影视",
+        "url": "http://www.gdtv.cn/tv/tvs4/"
+    },
+    {
+        "name": "TVS-5 少儿",
+        "url": "http://www.gdtv.cn/tv/tvs5/"
+    },
+    {
+        "name": "广东国际",
+        "url": "http://www.gdtv.cn/tv/world/"
+    },
+    {
+        "name": "广东体育",
+        "url": "http://www.bddn.cn/gdty.htm"
+    },
+    {
+        "name": "珠江频道",
+        "url": "http://www.bddn.cn/zjpd.htm"
+    },
+    {
+        "name": "广东新闻",
+        "url": "http://news.gdtv.cn/"
+    },
+    {
+        "name": "广东公共",
+        "url": "http://public.gdtv.cn/"
+    },
+    {
+        "name": "广东房产",
+        "url": "http://www.gdtv.cn/tv/house/"
+    },
+    {
+        "name": "广东会展",
+        "url": "http://www.gdtv.cn/tv/car/"
+    },
+    {
+        "name": "珠江电影",
+        "url": "http://www.bddn.cn/zjdy.htm"
+    },
+    {
+        "name": "嘉佳卡通",
+        "url": "http://cartoon.gdtv.cn/"
+    },
+    {
+        "name": "广州综合",
+        "url": "http://www.bddn.cn/gzzh.htm"
+    },
+    {
+        "name": "广州新闻",
+        "url": "http://www.bddn.cn/gzxw.htm"
+    },
+    {
+        "name": "广州影视",
+        "url": "http://www.bddn.cn/gzys.htm"
+    },
+    {
+        "name": "广州生活",
+        "url": "http://www.bddn.cn/gzsh.htm"
+    },
+    {
+        "name": "广州经济",
+        "url": "http://www.bddn.cn/gzjj.htm"
+    },
+    {
+        "name": "广州少儿",
+        "url": "http://www.bddn.cn/gzse.htm"
+    },
+    {
+        "name": "广州竞赛",
+        "url": "http://www.bddn.cn/gzjs.htm"
+    },
+    {
+        "name": "广州购物",
+        "url": "http://www.bddn.cn/gzgw.htm"
+    },
+    {
+        "name": "深圳都市",
+        "url": "http://www.bddn.cn/szds.htm"
+    },
+    {
+        "name": "深圳电视剧",
+        "url": "http://www.bddn.cn/szdsj.htm"
+    },
+    {
+        "name": "深圳财经",
+        "url": "http://www.bddn.cn/szcj.htm"
+    },
+    {
+        "name": "深圳娱乐",
+        "url": "http://www.bddn.cn/szyl.htm"
+    },
+    {
+        "name": "深圳体育",
+        "url": "http://www.bddn.cn/szty.htm"
+    },
+    {
+        "name": "深圳少儿",
+        "url": "http://www.bddn.cn/szse.htm"
+    },
+    {
+        "name": "深圳公共",
+        "url": "http://www.bddn.cn/szgg.htm"
+    },
+    {
+        "name": "深圳DV生活",
+        "url": "http://www.bddn.cn/szsh.htm"
+    },
+    {
+        "name": "深圳龙岗",
+        "url": "http://www.bddn.cn/szlgpd.htm"
+    },
+    {
+        "name": "深圳东部",
+        "url": "http://www.bddn.cn/szdbpd.htm"
+    },
+    {
+        "name": "深圳众创TV",
+        "url": "http://www.bddn.cn/szzctv.htm"
+    },
+    {
+        "name": "湛江综合",
+        "url": "http://www.bddn.cn/zjzh.htm"
+    },
+    {
+        "name": "茂名综合",
+        "url": "http://www.bddn.cn/mmzh.htm"
+    },
+    {
+        "name": "茂名公共",
+        "url": "http://www.bddn.cn/mmgg.htm"
+    },
+    {
+        "name": "阳江二台",
+        "url": "http://www.bddn.cn/yj2.htm"
+    },
+    {
+        "name": "阳江一台",
+        "url": "http://www.bddn.cn/yj1.htm"
+    },
+    {
+        "name": "台山综合",
+        "url": "http://www.bddn.cn/tszhgd.htm"
+    },
+    {
+        "name": "江门教育",
+        "url": "http://www.bddn.cn/jmjy.htm"
+    },
+    {
+        "name": "江门公共",
+        "url": "http://www.bddn.cn/jmgg.htm"
+    },
+    {
+        "name": "江门综合",
+        "url": "http://www.bddn.cn/jmzh.htm"
+    },
+    {
+        "name": "云浮综合",
+        "url": "http://www.bddn.cn/yfzhgd.htm"
+    },
+    {
+        "name": "肇庆综合",
+        "url": "http://www.bddn.cn/zqzh.htm"
+    },
+    {
+        "name": "揭阳公共",
+        "url": "http://www.bddn.cn/jygggd.htm"
+    },
+    {
+        "name": "揭阳综合",
+        "url": "http://www.bddn.cn/jyzhgd.htm"
+    },
+    {
+        "name": "汕尾-1",
+        "url": "http://www.bddn.cn/sw1.htm"
+    },
+    {
+        "name": "汕头综合",
+        "url": "http://www.bddn.cn/stzh.htm"
+    },
+    {
+        "name": "潮州公共",
+        "url": "http://www.bddn.cn/czgggd.htm"
+    },
+    {
+        "name": "潮州综合",
+        "url": "http://www.bddn.cn/czzhgd.htm"
+    },
+    {
+        "name": "梅州-1",
+        "url": "http://www.bddn.cn/mz1.htm"
+    },
+    {
+        "name": "惠州一套",
+        "url": "http://www.bddn.cn/hz1.htm"
+    },
+    {
+        "name": "惠州二套",
+        "url": "http://www.bddn.cn/hz2.htm"
+    },
+    {
+        "name": "河源公共",
+        "url": "http://www.bddn.cn/hygg.htm"
+    },
+    {
+        "name": "河源综合",
+        "url": "http://www.bddn.cn/hyzh.htm"
+    },
+    {
+        "name": "韶关公共",
+        "url": "http://www.bddn.cn/sggg.htm"
+    },
+    {
+        "name": "韶关综合",
+        "url": "http://www.bddn.cn/sgzh.htm"
+    },
+    {
+        "name": "清远公共",
+        "url": "http://www.bddn.cn/qygggd.htm"
+    },
+    {
+        "name": "清远综合",
+        "url": "http://www.bddn.cn/qyzhgd.htm"
+    },
+    {
+        "name": "珠海公共",
+        "url": "http://www.bddn.cn/zh2.htm"
+    },
+    {
+        "name": "珠海综合",
+        "url": "http://www.bddn.cn/zh1.htm"
+    },
+    {
+        "name": "东莞公共2",
+        "url": "http://www.bddn.cn/dg2.htm"
+    },
+    {
+        "name": "东莞综合",
+        "url": "http://www.bddn.cn/dg1.htm"
+    },
+    {
+        "name": "中山教育",
+        "url": "http://www.bddn.cn/zsjygd.htm"
+    },
+    {
+        "name": "中山公共",
+        "url": "http://www.bddn.cn/zsgggd.htm"
+    },
+    {
+        "name": "中山综合",
+        "url": "http://www.bddn.cn/zszhgd.htm"
+    },
+    {
+        "name": "佛山南海",
+        "url": "http://www.bddn.cn/fsnh.htm"
+    },
+    {
+        "name": "佛山顺德",
+        "url": "http://www.bddn.cn/fssd.htm"
+    },
+    {
+        "name": "佛山影视",
+        "url": "http://www.bddn.cn/fsys.htm"
+    },
+    {
+        "name": "佛山公共",
+        "url": "http://www.bddn.cn/fsgg.htm"
+    },
+    {
+        "name": "佛山综合",
+        "url": "http://www.bddn.cn/fszh.htm"
+    },
+    {
+        "name": "番禺综合",
+        "url": "http://www.bddn.cn/pyzhgd.htm"
+    },
+    {
+        "name": "贵州卫视",
+        "url": "http://www.bddn.cn/gzws.htm"
+    },
+    {
+        "name": "贵州公共",
+        "url": "http://www.bddn.cn/gzgg.htm"
+    },
+    {
+        "name": "贵阳新闻综合",
+        "url": "http://www.bddn.cn/gy1.htm"
+    },
+    {
+        "name": "贵阳经济生活",
+        "url": "http://www.bddn.cn/gy2.htm"
+    },
+    {
+        "name": "六盘水综合",
+        "url": "http://www.bddn.cn/lpszh.htm"
+    },
+    {
+        "name": "六盘水公共",
+        "url": "http://www.bddn.cn/lpsgg.htm"
+    },
+    {
+        "name": "旅游卫视",
+        "url": "http://www.bddn.cn/lyws.htm"
+    },
+    {
+        "name": "三沙卫视",
+        "url": "http://www.bddn.cn/ssws.htm"
+    },
+    {
+        "name": "海南综合",
+        "url": "http://www.bddn.cn/hnzh.htm"
+    },
+    {
+        "name": "海南新闻",
+        "url": "http://www.bddn.cn/hnxw.htm"
+    },
+    {
+        "name": "海南公共",
+        "url": "http://www.bddn.cn/hnggpd.htm"
+    },
+    {
+        "name": "海南少儿",
+        "url": "http://www.bddn.cn/hnqs.htm"
+    },
+    {
+        "name": "海南影视",
+        "url": "http://www.bddn.cn/hnys.htm"
+    },
+    {
+        "name": "海口-1",
+        "url": "http://www.bddn.cn/hk1.htm"
+    },
+    {
+        "name": "海口-2",
+        "url": "http://www.bddn.cn/hk2.htm"
+    },
+    {
+        "name": "海口-3",
+        "url": "http://www.bddn.cn/hk3.htm"
+    },
+    {
+        "name": "广西卫视",
+        "url": "http://www.bddn.cn/gxws.htm"
+    },
+    {
+        "name": "广西综艺",
+        "url": "http://www.bddn.cn/gxzy.htm"
+    },
+    {
+        "name": "广西都市",
+        "url": "http://www.bddn.cn/gxds.htm"
+    },
+    {
+        "name": "广西公共",
+        "url": "http://www.bddn.cn/gxgg.htm"
+    },
+    {
+        "name": "广西影视",
+        "url": "http://www.bddn.cn/gxys.htm"
+    },
+    {
+        "name": "广西新闻",
+        "url": "http://www.bddn.cn/gxxw.htm"
+    },
+    {
+        "name": "广西科教",
+        "url": "http://www.bddn.cn/gxkj.htm"
+    },
+    {
+        "name": "广西国际",
+        "url": "http://www.bddn.cn/gxgj.htm"
+    },
+    {
+        "name": "广西交通",
+        "url": "http://www.bddn.cn/gxjt.htm"
+    },
+    {
+        "name": "广西乐思购",
+        "url": "http://www.bddn.cn/gxlsg.htm"
+    },
+    {
+        "name": "南宁影视娱乐",
+        "url": "http://www.bddn.cn/nnysgx.htm"
+    },
+    {
+        "name": "南宁都市生活",
+        "url": "http://www.bddn.cn/nndsgx.htm"
+    },
+    {
+        "name": "南宁公共",
+        "url": "http://www.bddn.cn/nngggx.htm"
+    },
+    {
+        "name": "南宁综合",
+        "url": "http://www.bddn.cn/nnzhgx.htm"
+    },
+    {
+        "name": "桂林综合",
+        "url": "http://www.bddn.cn/glzhgx.htm"
+    },
+    {
+        "name": "柳州综合",
+        "url": "http://www.bddn.cn/lzzhgx.htm"
+    },
+    {
+        "name": "柳州科教",
+        "url": "http://www.bddn.cn/lzkjgx.htm"
+    },
+    {
+        "name": "玉林新闻综合",
+        "url": "http://v.yltvb.com/xinwenzonghezhibo/"
+    },
+    {
+        "name": "玉林公共频道",
+        "url": "http://v.yltvb.com/yulingonggongzhibo/"
+    },
+    {
+        "name": "玉林知识频道",
+        "url": "http://v.yltvb.com/shipinzhibo/"
+    },
+    {
+        "name": "河池新闻综合",
+        "url": "http://www.bddn.cn/hczhgx.htm"
+    },
+    {
+        "name": "河池教育频道",
+        "url": "http://www.bddn.cn/hcjygx.htm"
+    },
+    {
+        "name": "河池广播电台",
+        "url": "http://www.bddn.cn/hcrmgbdtgx.htm"
+    },
+    {
+        "name": "北海新闻综合",
+        "url": "http://www.bddn.cn/bhzhgx.htm"
+    },
+    {
+        "name": "钦州综合频道",
+        "url": "http://www.bddn.cn/qzzhgx.htm"
+    },
+    {
+        "name": "河北卫视",
+        "url": "http://www.hebtv.com/Internet_broadcast/hbwsgq/"
+    },
+    {
+        "name": "河北都市",
+        "url": "http://www.hebtv.com/Internet_broadcast/hbds/"
+    },
+    {
+        "name": "河北经济",
+        "url": "http://www.hebtv.com/Internet_broadcast/hbjj/"
+    },
+    {
+        "name": "河北影视",
+        "url": "http://www.hebtv.com/Internet_broadcast/hbys/"
+    },
+    {
+        "name": "河北少儿",
+        "url": "http://www.hebtv.com/Internet_broadcast/hbse/"
+    },
+    {
+        "name": "河北公共",
+        "url": "http://www.hebtv.com/Internet_broadcast/hbgg/"
+    },
+    {
+        "name": "河北购物",
+        "url": "http://www.hebtv.com/Internet_broadcast/sjgw/"
+    },
+    {
+        "name": "河北农民",
+        "url": "http://www.hebtv.com/Internet_broadcast/nmpd/"
+    },
+    {
+        "name": "黑龙江卫视",
+        "url": "http://www.hljtv.com/live/"
+    },
+    {
+        "name": "黑龙江文体",
+        "url": "http://www.hljtv.com/live/folder423/"
+    },
+    {
+        "name": "黑龙江新闻",
+        "url": "http://www.hljtv.com/live/folder424/"
+    },
+    {
+        "name": "黑龙江公共",
+        "url": "http://www.hljtv.com/live/folder420/"
+    },
+    {
+        "name": "黑龙江影视",
+        "url": "http://www.hljtv.com/live/folder425/"
+    },
+    {
+        "name": "黑龙江都市",
+        "url": "http://www.hljtv.com/live/folder419/"
+    },
+    {
+        "name": "黑龙江少儿",
+        "url": "http://www.hljtv.com/live/folder422/"
+    },
+    {
+        "name": "导视频道",
+        "url": "http://www.hljtv.com/live/folder417/"
+    },
+    {
+        "name": "农垦频道",
+        "url": "http://www.hljtv.com/live/folder421/"
+    },
+    {
+        "name": "湖北卫视",
+        "url": "http://www.bddn.cn/hbtv.htm"
+    },
+    {
+        "name": "湖北综合",
+        "url": "http://www.bddn.cn/hbzh.htm"
+    },
+    {
+        "name": "湖北公共新闻",
+        "url": "http://www.bddn.cn/hbgg.htm"
+    },
+    {
+        "name": "湖北影视",
+        "url": "http://www.bddn.cn/hubys.htm"
+    },
+    {
+        "name": "湖北经视",
+        "url": "http://www.bddn.cn/hbjs.htm"
+    },
+    {
+        "name": "湖北生活",
+        "url": "http://www.bddn.cn/hbsh.htm"
+    },
+    {
+        "name": "湖北教育",
+        "url": "http://www.bddn.cn/hbjy.htm"
+    },
+    {
+        "name": "湖北垄上",
+        "url": "http://www.bddn.cn/hblspd.htm"
+    },
+    {
+        "name": "快乐成长",
+        "url": "http://www.bddn.cn/hbklcz.htm"
+    },
+    {
+        "name": "湖南卫视",
+        "url": "http://www.bddn.cn/hnws.htm"
+    },
+    {
+        "name": "金鹰纪实HD",
+        "url": "http://www.bddn.cn/jyjs.htm"
+    },
+    {
+        "name": "湖南国际",
+        "url": "http://www.bddn.cn/hngj.htm"
+    },
+    {
+        "name": "湖南经视",
+        "url": "http://www.bddn.cn/hnjs.htm"
+    },
+    {
+        "name": "湖南电视剧",
+        "url": "http://www.bddn.cn/hndsj.htm"
+    },
+    {
+        "name": "湖南娱乐",
+        "url": "http://www.bddn.cn/hnyl.htm"
+    },
+    {
+        "name": "湖南公共",
+        "url": "http://www.bddn.cn/hngg.htm"
+    },
+    {
+        "name": "湖南都市",
+        "url": "http://www.bddn.cn/hnds.htm"
+    },
+    {
+        "name": "金鹰卡通",
+        "url": "http://www.bddn.cn/jykt.htm"
+    },
+    {
+        "name": "河南卫视",
+        "url": "http://bddn.cn/hntv.htm"
+    },
+    {
+        "name": "河南都市",
+        "url": "http://bddn.cn/hntvds.htm"
+    },
+    {
+        "name": "河南民生",
+        "url": "http://bddn.cn/hntvms.htm"
+    },
+    {
+        "name": "河南法治",
+        "url": "http://bddn.cn/hntvfz.htm"
+    },
+    {
+        "name": "河南电视剧",
+        "url": "http://bddn.cn/hntvdsj.htm"
+    },
+    {
+        "name": "河南新闻",
+        "url": "http://bddn.cn/hntvxw.htm"
+    },
+    {
+        "name": "河南时政",
+        "url": "http://bddn.cn/hntvsz.htm"
+    },
+    {
+        "name": "河南公共",
+        "url": "http://bddn.cn/hntvgg.htm"
+    },
+    {
+        "name": "河南新农村",
+        "url": "http://bddn.cn/hntvxnc.htm"
+    },
+    {
+        "name": "武术世界",
+        "url": "http://bddn.cn/hntvws.htm"
+    },
+    {
+        "name": "梨园频道",
+        "url": "http://bddn.cn/hntvly.htm"
+    },
+    {
+        "name": "江西卫视",
+        "url": "http://www.jxntv.cn/live"
+    },
+    {
+        "name": "江西都市频道",
+        "url": "http://www.jxntv.cn/live/jxtv2.shtml"
+    },
+    {
+        "name": "江西经济生活",
+        "url": "http://www.jxntv.cn/live/jxtv3.shtml"
+    },
+    {
+        "name": "江西影视娱乐",
+        "url": "http://www.jxntv.cn/live/jxtv4.shtml"
+    },
+    {
+        "name": "江西公共频道",
+        "url": "http://www.jxntv.cn/live/jxtv5.shtml"
+    },
+    {
+        "name": "江西少儿家庭",
+        "url": "http://www.jxntv.cn/live/jxtv6.shtml"
+    },
+    {
+        "name": "江西电影频道",
+        "url": "http://www.jxntv.cn/live/jxtv7.shtml"
+    },
+    {
+        "name": "江西移动电视",
+        "url": "http://www.jxntv.cn/live/jxtv8.shtml"
+    },
+    {
+        "name": "江西陶瓷频道",
+        "url": "http://www.jxntv.cn/live/jxtv10.shtml"
+    },
+    {
+        "name": "江苏卫视",
+        "url": "http://www.bddn.cn/jsws.htm"
+    },
+    {
+        "name": "江苏靓妆",
+        "url": "http://www.bddn.cn/jslz.htm"
+    },
+    {
+        "name": "江苏城市",
+        "url": "http://www.bddn.cn/jscs.htm"
+    },
+    {
+        "name": "江苏影视",
+        "url": "http://www.bddn.cn/jsys.htm"
+    },
+    {
+        "name": "江苏综艺",
+        "url": "http://www.bddn.cn/jszy.htm"
+    },
+    {
+        "name": "江苏公共",
+        "url": "http://www.bddn.cn/jsgg.htm"
+    },
+    {
+        "name": "江苏体育",
+        "url": "http://www.bddn.cn/jsty.htm"
+    },
+    {
+        "name": "江苏教育",
+        "url": "http://www.bddn.cn/jsjy.htm"
+    },
+    {
+        "name": "江苏国际",
+        "url": "http://www.bddn.cn/jsgj.htm"
+    },
+    {
+        "name": "南京综合",
+        "url": "http://www.bddn.cn/njzhjs.htm"
+    },
+    {
+        "name": "南京教科",
+        "url": "http://www.bddn.cn/njjkjs.htm"
+    },
+    {
+        "name": "南京生活",
+        "url": "http://www.bddn.cn/njshjs.htm"
+    },
+    {
+        "name": "南京娱乐",
+        "url": "http://www.bddn.cn/njyljs.htm"
+    },
+    {
+        "name": "南京十八",
+        "url": "http://www.bddn.cn/njsbjs.htm"
+    },
+    {
+        "name": "南京信息",
+        "url": "http://www.bddn.cn/njxxjs.htm"
+    },
+    {
+        "name": "南京少儿",
+        "url": "http://www.bddn.cn/njsejs.htm"
+    },
+    {
+        "name": "苏州综合",
+        "url": "http://www.bddn.cn/szzhjs.htm"
+    },
+    {
+        "name": "苏州经济",
+        "url": "http://www.bddn.cn/szjjjs.htm"
+    },
+    {
+        "name": "苏州生活",
+        "url": "http://www.bddn.cn/szshjs.htm"
+    },
+    {
+        "name": "苏州资讯",
+        "url": "http://www.bddn.cn/szzxjs.htm"
+    },
+    {
+        "name": "南通新闻综合",
+        "url": "http://live.ntjoy.com/index.php?channel=130"
+    },
+    {
+        "name": "南通教育频道",
+        "url": "http://live.ntjoy.com/index.php?channel=128"
+    },
+    {
+        "name": "南通公共频道",
+        "url": "http://live.ntjoy.com/index.php?channel=127"
+    },
+    {
+        "name": "南通信息频道",
+        "url": "http://live.ntjoy.com/index.php?channel=126"
+    },
+    {
+        "name": "常州新闻",
+        "url": "http://www.bddn.cn/czzhjs.htm"
+    },
+    {
+        "name": "常州都市",
+        "url": "http://www.bddn.cn/czdsjs.htm"
+    },
+    {
+        "name": "常州生活",
+        "url": "http://www.bddn.cn/czshjs.htm"
+    },
+    {
+        "name": "常州公共",
+        "url": "http://www.bddn.cn/czggjs.htm"
+    },
+    {
+        "name": "盐城新闻综合",
+        "url": "http://www.0515yc.cn/tvlook/folder76/"
+    },
+    {
+        "name": "盐城法制生活",
+        "url": "http://www.0515yc.cn/tvlook/folder77/"
+    },
+    {
+        "name": "盐城城市公共",
+        "url": "http://www.0515yc.cn/tvlook/folder78/"
+    },
+    {
+        "name": "盐城七一小康",
+        "url": "http://www.0515yc.cn/tvlook/folder178/"
+    },
+    {
+        "name": "扬州新闻频道",
+        "url": "http://www.96189.tv/maintab/livel?cid=235&lid=8aafbb4a5d4aff0e015e094d1100155d"
+    },
+    {
+        "name": "扬州城市频道",
+        "url": "http://www.96189.tv/maintab/livel?cid=291&lid=8aafbb4a5d4aff0e015e095324cd15db"
+    },
+    {
+        "name": "扬州生活频道",
+        "url": "http://www.96189.tv/maintab/livel?cid=236&lid=8aafbb4a5d4aff0e015e0958d3e7164e"
+    },
+    {
+        "name": "扬州公交频道",
+        "url": "http://www.96189.tv/maintab/livel?cid=177444&lid=8aafbb4a5d4aff0e015e03fd77444b03"
+    },
+    {
+        "name": "扬州江都频道",
+        "url": "http://www.96189.tv/maintab/livel?cid=290&lid=8aafbb4a5d4aff0e015e095fcfd416ed"
+    },
+    {
+        "name": "扬州旅游频道",
+        "url": "http://www.96189.tv/maintab/livel?cid=292&lid=8aafbb4a5d4aff0e015e0946a5f561f3"
+    },
+    {
+        "name": "徐州新闻综合",
+        "url": "http://www.bddn.cn/xz1.htm"
+    },
+    {
+        "name": "徐州经济生活",
+        "url": "http://www.bddn.cn/xz2.htm"
+    },
+    {
+        "name": "徐州文艺影视",
+        "url": "http://www.bddn.cn/xz3.htm"
+    },
+    {
+        "name": "徐州公共频道",
+        "url": "http://www.bddn.cn/xz4.htm"
+    },
+    {
+        "name": "淮安新闻综合",
+        "url": "http://www.habctv.com/live/xwzhpd/"
+    },
+    {
+        "name": "淮安公共频道",
+        "url": "http://www.habctv.com/live/haggpd/"
+    },
+    {
+        "name": "淮安影视娱乐",
+        "url": "http://www.habctv.com/live/ysylpd/"
+    },
+    {
+        "name": "无锡综合",
+        "url": "http://v2.thmz.com/folder4/folder27"
+    },
+    {
+        "name": "无锡娱乐",
+        "url": "http://v2.thmz.com/folder4/folder1126/"
+    },
+    {
+        "name": "无锡都市",
+        "url": "http://v2.thmz.com/folder4/folder62/"
+    },
+    {
+        "name": "无锡生活",
+        "url": "http://v2.thmz.com/folder4/"
+    },
+    {
+        "name": "无锡经济",
+        "url": "http://v2.thmz.com/folder4/folder25/"
+    },
+    {
+        "name": "泰州新闻综合",
+        "url": "http://www.mytaizhou.net/folder114/folder368/folder369/"
+    },
+    {
+        "name": "泰州经济生活",
+        "url": "http://www.mytaizhou.net/folder114/folder368/folder370/"
+    },
+    {
+        "name": "泰州影视娱乐",
+        "url": "http://www.mytaizhou.net/folder114/folder368/folder371/"
+    },
+    {
+        "name": "镇江新闻时政",
+        "url": "http://www.zjmc.tv//folder125/folder189/index.php"
+    },
+    {
+        "name": "镇江民生频道",
+        "url": "http://www.zjmc.tv//folder125/folder190/index.php"
+    },
+    {
+        "name": "镇江城市资讯",
+        "url": "http://www.zjmc.tv//folder125/folder191/index.php"
+    },
+    {
+        "name": "连云港新闻综合",
+        "url": "http://www.lyg1.com/live.shtml"
+    },
+    {
+        "name": "连云港城市公共",
+        "url": "http://www.lyg1.com/live.shtml?c=csgg"
+    },
+    {
+        "name": "辽宁卫视",
+        "url": "http://bddn.cn/lnws.htm"
+    },
+    {
+        "name": "辽宁经济",
+        "url": "http://bddn.cn/lnjj.htm"
+    },
+    {
+        "name": "辽宁公共",
+        "url": "http://bddn.cn/lngg.htm"
+    },
+    {
+        "name": "辽宁体育",
+        "url": "http://bddn.cn/lnty.htm"
+    },
+    {
+        "name": "辽宁都市",
+        "url": "http://bddn.cn/lnds.htm"
+    },
+    {
+        "name": "辽宁生活",
+        "url": "http://bddn.cn/lnsh.htm"
+    },
+    {
+        "name": "辽宁影视",
+        "url": "http://bddn.cn/lnys.htm"
+    },
+    {
+        "name": "教育青少",
+        "url": "http://bddn.cn/lnjy.htm"
+    },
+    {
+        "name": "宜佳购物",
+        "url": "http://bddn.cn/yjgw.htm"
+    },
+    {
+        "name": "吉林卫视",
+        "url": "http://www.jlntv.cn/folder430/"
+    },
+    {
+        "name": "吉林都市",
+        "url": "http://www.jlntv.cn/folder430/folder481/"
+    },
+    {
+        "name": "吉林生活",
+        "url": "http://www.jlntv.cn/folder430/folder432/"
+    },
+    {
+        "name": "吉林影视",
+        "url": "http://www.jlntv.cn/folder430/folder433/"
+    },
+    {
+        "name": "吉林公共新闻",
+        "url": "http://www.jlntv.cn/folder430/folder483/"
+    },
+    {
+        "name": "吉林综艺文化",
+        "url": "ttp://www.jlntv.cn/folder430/folder434/"
+    },
+    {
+        "name": "吉林乡村",
+        "url": "http://www.jlntv.cn/folder430/folder482/"
+    },
+    {
+        "name": "吉林篮球",
+        "url": "http://www.jlntv.cn/folder430/folder484/index.html"
+    },
+    {
+        "name": "东北戏曲",
+        "url": "http://www.jlntv.cn/folder430/folder485/"
+    },
+    {
+        "name": "内蒙古卫视",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder469/"
+    },
+    {
+        "name": "内蒙古蒙语",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder468/"
+    },
+    {
+        "name": "内蒙古新闻综合",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder258/"
+    },
+    {
+        "name": "内蒙古文体娱乐",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder464/"
+    },
+    {
+        "name": "内蒙古经济生活",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder258/"
+    },
+    {
+        "name": "内蒙古农牧频道",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder465/"
+    },
+    {
+        "name": "内蒙古少儿频道",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder467/"
+    },
+    {
+        "name": "内蒙古文化频道",
+        "url": "http://www.nmtv.cn/folder125/folder256/folder466/"
+    },
+    {
+        "name": "宁夏卫视",
+        "url": "http://bddn.cn/nxws.htm"
+    },
+    {
+        "name": "宁夏公共",
+        "url": "http://bddn.cn/nxgg.htm"
+    },
+    {
+        "name": "宁夏经济",
+        "url": "http://bddn.cn/nxjj.htm"
+    },
+    {
+        "name": "宁夏影视",
+        "url": "http://gd.nxtv.com.cn/tv/ysh/"
+    },
+    {
+        "name": "宁夏少儿",
+        "url": "http://gd.nxtv.com.cn/tv/she/"
+    },
+    {
+        "name": "青海卫视",
+        "url": "http://bddn.cn/qhws.htm"
+    },
+    {
+        "name": "青海生活",
+        "url": "http://bddn.cn/qhsh.htm"
+    },
+    {
+        "name": "青海都市",
+        "url": "http://bddn.cn/qhds.htm"
+    },
+    {
+        "name": "安多卫视",
+        "url": "http://bddn.cn/qhad.htm"
+    },
+    {
+        "name": "山东卫视",
+        "url": "http://v.iqilu.com/live/sdtv/"
+    },
+    {
+        "name": "山东齐鲁",
+        "url": "http://v.iqilu.com/live/qlpd/"
+    },
+    {
+        "name": "山东体育",
+        "url": "http://bddn.cn/sdty.htm"
+    },
+    {
+        "name": "山东农科",
+        "url": "http://v.iqilu.com/live/nkpd/"
+    },
+    {
+        "name": "山东公共",
+        "url": "http://v.iqilu.com/live/ggpd/"
+    },
+    {
+        "name": "山东少儿",
+        "url": "http://v.iqilu.com/live/sepd/"
+    },
+    {
+        "name": "山东影视",
+        "url": "http://v.iqilu.com/live/yspd/"
+    },
+    {
+        "name": "山东综艺",
+        "url": "http://v.iqilu.com/live/zypd/"
+    },
+    {
+        "name": "山东生活",
+        "url": "http://v.iqilu.com/live/shpd/"
+    },
+    {
+        "name": "山东国际",
+        "url": "http://v.iqilu.com/live/gjpd/"
+    },
+    {
+        "name": "东方卫视",
+        "url": "http://www.bddn.cn/dfws.htm"
+    },
+    {
+        "name": "上海新闻",
+        "url": "http://www.bddn.cn/shxw.htm"
+    },
+    {
+        "name": "上海娱乐",
+        "url": "http://www.bddn.cn/shyl.htm"
+    },
+    {
+        "name": "上海星尚",
+        "url": "http://www.bddn.cn/shxs.htm"
+    },
+    {
+        "name": "艺术人文",
+        "url": "http://www.bddn.cn/rsrw.htm"
+    },
+    {
+        "name": "五星体育",
+        "url": "http://www.bddn.cn/wxty.htm"
+    },
+    {
+        "name": "山西卫视",
+        "url": "http://bddn.cn/sxws.htm"
+    },
+    {
+        "name": "山西经济",
+        "url": "http://bddn.cn/sxjjsx.htm"
+    },
+    {
+        "name": "山西影视",
+        "url": "http://bddn.cn/sxyssx.htm"
+    },
+    {
+        "name": "山西科教",
+        "url": "http://bddn.cn/sxkjsx.htm"
+    },
+    {
+        "name": "山西公共",
+        "url": "http://bddn.cn/sxggsx.htm"
+    },
+    {
+        "name": "山西少儿",
+        "url": "http://bddn.cn/sxsepd.htm"
+    },
+    {
+        "name": "黄河电视台",
+        "url": "http://bddn.cn/hhdssx.htm"
+    },
+    {
+        "name": "中国黄河",
+        "url": "http://bddn.cn/zghhsx.htm"
+    },
+    {
+        "name": "晴彩山西",
+        "url": "http://bddn.cn/sxjcpd.htm"
+    },
+    {
+        "name": "陕西卫视",
+        "url": "http://www.bddn.cn/sxtv.htm"
+    },
+    {
+        "name": "农林卫视",
+        "url": "http://www.bddn.cn/sxnlws.htm"
+    },
+    {
+        "name": "陕西新闻资讯",
+        "url": "http://www.bddn.cn/sxxwsx.htm"
+    },
+    {
+        "name": "陕西都市青春",
+        "url": "http://www.bddn.cn/sxdssx.htm"
+    },
+    {
+        "name": "陕西生活频道",
+        "url": "http://www.bddn.cn/sxshsx.htm"
+    },
+    {
+        "name": "陕西公共频道",
+        "url": "http://www.bddn.cn/sxgg.htm"
+    },
+    {
+        "name": "陕西体育休闲",
+        "url": "http://www.bddn.cn/sxty.htm"
+    },
+    {
+        "name": "四川卫视",
+        "url": "http://www.bddn.cn/scws.htm"
+    },
+    {
+        "name": "康巴卫视",
+        "url": "http://www.bddn.cn/kbws.htm"
+    },
+    {
+        "name": "四川文化旅游",
+        "url": "http://www.bddn.cn/scwl.htm"
+    },
+    {
+        "name": "四川经视频道",
+        "url": "http://www.bddn.cn/scjj.htm"
+    },
+    {
+        "name": "四川新闻资讯",
+        "url": "http://www.bddn.cn/scxw.htm"
+    },
+    {
+        "name": "四川影视文艺",
+        "url": "http://www.bddn.cn/scdy.htm"
+    },
+    {
+        "name": "四川妇女儿童",
+        "url": "http://www.sctv.cn/live/SCTV7/"
+    },
+    {
+        "name": "四川科教频道",
+        "url": "http://www.bddn.cn/sckj.htm"
+    },
+    {
+        "name": "四川公共频道",
+        "url": "http://www.bddn.cn/scgg.htm"
+    },
+    {
+        "name": "云南卫视",
+        "url": "http://www.bddn.cn/ynws.htm"
+    },
+    {
+        "name": "云南都市",
+        "url": "http://www.bddn.cn/ynds.htm"
+    },
+    {
+        "name": "云南娱乐",
+        "url": "http://www.bddn.cn/ynyl.htm"
+    },
+    {
+        "name": "云南公共",
+        "url": "http://www.bddn.cn/yngg.htm"
+    },
+    {
+        "name": "云南国际",
+        "url": "http://www.bddn.cn/yngj.htm"
+    },
+    {
+        "name": "天津卫视",
+        "url": "http://www.bddn.cn/tjws.htm"
+    },
+    {
+        "name": "天津文艺",
+        "url": "http://www.bddn.cn/tjwy.htm"
+    },
+    {
+        "name": "天津新闻",
+        "url": "http://www.bddn.cn/tjxw.htm"
+    },
+    {
+        "name": "天津影视",
+        "url": "http://www.bddn.cn/tjys.htm"
+    },
+    {
+        "name": "天津都市",
+        "url": "http://www.bddn.cn/tjds.htm"
+    },
+    {
+        "name": "天津体育",
+        "url": "http://www.bddn.cn/tjty.htm"
+    },
+    {
+        "name": "天津科教",
+        "url": "http://www.bddn.cn/tjkj.htm"
+    },
+    {
+        "name": "天津公共",
+        "url": "http://www.bddn.cn/tjgg.htm"
+    },
+    {
+        "name": "天津少儿",
+        "url": "http://www.bddn.cn/tjse.htm"
+    },
+    {
+        "name": "西藏卫视",
+        "url": "http://bddn.cn/xzws.htm"
+    },
+    {
+        "name": "西藏藏语",
+        "url": "http://bddn.cn/xzzy.htm"
+    },
+    {
+        "name": "新疆卫视",
+        "url": "http://www.xjtvs.com.cn/hy/zb/index.shtml"
+    },
+    {
+        "name": "新疆维语综合",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899086.shtml"
+    },
+    {
+        "name": "新疆哈语综合",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899093.shtml"
+    },
+    {
+        "name": "新疆汉语综艺",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899095.shtml"
+    },
+    {
+        "name": "新疆维语综艺",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899096.shtml"
+    },
+    {
+        "name": "新疆汉语经济生活",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899098.shtml"
+    },
+    {
+        "name": "新疆哈语综艺",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899099.shtml"
+    },
+    {
+        "name": "新疆维语经济生活",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899100.shtml"
+    },
+    {
+        "name": "新疆汉语体育",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899101.shtml"
+    },
+    {
+        "name": "新疆汉语法制信息",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899102.shtml"
+    },
+    {
+        "name": "新疆少儿频道",
+        "url": "http://www.xjtvs.com.cn/hy/zb/26899103.shtml"
+    },
+    {
+        "name": "浙江卫视",
+        "url": "http://www.bddn.cn/zjws.htm"
+    },
+    {
+        "name": "浙江钱江都市",
+        "url": "http://www.bddn.cn/zjqj.htm"
+    },
+    {
+        "name": "浙江经视",
+        "url": "http://www.bddn.cn/zjjs.htm"
+    },
+    {
+        "name": "浙江教育科技",
+        "url": "http://www.bddn.cn/zjjykj.htm"
+    },
+    {
+        "name": "浙江影视娱乐",
+        "url": "http://www.bddn.cn/zjysyl.htm"
+    },
+    {
+        "name": "6 频 道",
+        "url": "http://www.bddn.cn/zj6.htm"
+    },
+    {
+        "name": "浙江公共新闻",
+        "url": "http://www.bddn.cn/zjggxw.htm"
+    },
+    {
+        "name": "浙江少儿",
+        "url": "http://www.bddn.cn/zjse.htm"
+    },
+    {
+        "name": "浙江国际",
+        "url": "http://www.bddn.cn/zjgj.htm"
+    }
+]
+
+
         },
         {
             "url": "http://m.91kds.cn/index2_xg.html",
