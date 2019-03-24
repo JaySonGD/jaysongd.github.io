@@ -2,6 +2,9 @@
     "filter": [
         "googleads.g.doubleclick.net",
         "about:blank",
+        ".ubalh.",
+        ".v5cam.",
+        "hm.baidu.",
         "alipay.com"
     ],
     "js": [
@@ -2063,6 +2066,10 @@
             "url": "http://m.91kds.cn/index2_xg.html",
             "name": "香港",
             "list": [
+                {
+                    "url": "http://129.204.117.172/tv/index.html",
+                    "name": "翡翠台"
+                },
                 {
                     "type": "video",
                     "vip": 0,
