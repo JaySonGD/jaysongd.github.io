@@ -2072,6 +2072,16 @@
                     "name": "翡翠台"
                 },
                 {
+                    "url": "http://129.204.117.172/tv/inews.html",
+                    "type": "video",
+                    "name": "无线新闻台"
+                },
+                {
+                    "url": "http://129.204.117.172/tv/j5.html",
+                    "type": "video",
+                    "name": "无线财经台"
+                },
+                {
                     "type": "video",
                     "vip": 0,
                     "url": "http://123.207.42.38/tvb.php?type=jade",
