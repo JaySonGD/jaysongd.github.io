@@ -2069,7 +2069,7 @@
                 {
                     "url": "http://129.204.117.172/tv/jade.html",
                     "type": "video",
-                    "name": "翡翠台"
+                    "name": "翡翠台-涉及金钱交易,请不要支持,以免上当受骗"
                 },
                 {
                     "url": "http://129.204.117.172/tv/inews.html",
@@ -2082,36 +2082,8 @@
                     "name": "无线财经台"
                 },
                 {
-                    "type": "video",
-                    "vip": 0,
-                    "url": "http://123.207.42.38/tvb.php?type=jade",
-                    "name": "翡翠台-涉及金钱交易,请不要支持,以免上当受骗"
-                },
-                {
                     "url": "http://www.bddn.cn/fct.htm",
                     "name": "翡翠台-涉及金钱交易,请不要支持,以免上当受骗"
-                },
-                {
-                    "type": "video",
-                    "url1": "http://m.567it.com/jade.m3u8",
-                    "url": "http://pullhls2.ingkee.com/live/1535033802610929/playlist.m3u8",
-                    "name": "翡翠台"
-                },
-                {
-                    "type": "video",
-                    "url": "http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1547884342~exp=1547970742~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=3960abf02a399ed078de9dde6f637ea2fa455fbf069ba565d6fe2803c601c274",
-                    "name": "无线新闻台"
-                },
-                {
-                    "type": "video",
-                    "name": "无线新闻台",
-                    "url": "https://zeroys.top/omg/Zerotvb.php?zero=inews"
-                },
-                {
-                    "type": "video",
-                    "vip": 1,
-                    "url": "http://pullhls2.ingkee.com/live/1535033658610929/playlist.m3u8",
-                    "name": "无线新闻台"
                 },
                 {
                     "url": "http://news.tvb.com/live/inews",
@@ -2123,30 +2095,12 @@
                 },
                 {
                     "type": "video",
-                    "vip": 0,
-                    "url": "http://pullhls2.ingkee.com/live/1535033216210929/playlist.m3u8",
-                    "name": "有线新闻"
-                },
-                {
-                    "type": "video",
-                    "vip": 0,
                     "url": "rtmp://rtmpkjhk.hychuan.com/kaijiang/6he",
-                    "url0": "http://h.bertiechina.cn/atv/01kjzcom.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
                     "type": "video",
-                    "vip": 0,
-                    "url": "http://pullhls2.ingkee.com/live/1535033221510929/playlist.m3u8",
-                    "url2": "http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8",
-                    "url1": "http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8",
-                    "name": "J2(珍爱生命,远离赌博)"
-                },
-                {
-                    "type": "video",
-                    "vip": 0,
-                    "url": "http://pullhls2.ingkee.com/live/1535033221510929/playlist.m3u8",
-                    "url1": "http://219.153.111.213/atv/01kjzcom__redirect__1392.m3u8",
+                    "url": "http://rtmpkjhk.hychuan.com/kaijiang/6he.m3u8",
                     "name": "J2(珍爱生命,远离赌博)"
                 },
                 {
