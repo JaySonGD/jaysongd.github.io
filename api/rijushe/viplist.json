@@ -1,6 +1,35 @@
 {
     "platformlist":[
-
+                    {
+                    "name":"港剧➁",
+                    "url":"http://129.204.117.172/tv/index.html",
+                    "reload":{
+                              "logo.png":"https://upload-images.jianshu.io/upload_images/1274527-9296426d41604e5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+                            },
+                    "adType":[
+                              "saugei.js",
+                              "s13.cnzz.com",
+                              "img.wsf-gz.cn",
+                              "xlsschina15.net",
+                              "2hip.cn",
+                              "logo.png",
+                              "apple-touch-icon.png",
+                              ".apple.com",
+                              ".taokeweizhan.",
+                              "zhongxinguanye.",
+                              ".gif",
+                              ".kl6636.",
+                              ".heygugu.",
+                              ".aigou023."
+                              ],
+                    "mediaType":[
+                                 ".m3u8",
+                                 ".mp4",
+                                 "/share/",
+                                 "/embed/",
+                                 "api.52088cj.com"
+                                 ]
+                    },
                     {
                     "name":"港剧",
                     "url":"https://m.100sp.com/mulu2015/3.html",
@@ -31,36 +60,7 @@
                                  "api.52088cj.com"
                                  ]
                     },
-                    {
-                    "name":"港剧➁",
-                    "url":"https://m.dsmi.cc/",
-                    "reload":{
-                              "logo.png":"https://upload-images.jianshu.io/upload_images/1274527-9296426d41604e5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
-                            },
-                    "adType":[
-                              "saugei.js",
-                              "s13.cnzz.com",
-                              "img.wsf-gz.cn",
-                              "xlsschina15.net",
-                              "2hip.cn",
-                              "logo.png",
-                              "apple-touch-icon.png",
-                              ".apple.com",
-                              ".taokeweizhan.",
-                              "zhongxinguanye.",
-                              ".gif",
-                              ".kl6636.",
-                              ".heygugu.",
-                              ".aigou023."
-                              ],
-                    "mediaType":[
-                                 ".m3u8",
-                                 ".mp4",
-                                 "/share/",
-                                 "/embed/",
-                                 "api.52088cj.com"
-                                 ]
-                    },
+
 
                     
                     {
