@@ -1,10 +1,8 @@
 {
     "platformlist":[
-
-                    
                     {
-                    "name":"港剧",
-                    "url":"https://m.dsmi.cc/",
+                    "name":"港剧➁",
+                    "url":"http://129.204.117.172/tv/index.html",
                     "reload":{
                               "logo.png":"https://upload-images.jianshu.io/upload_images/1274527-9296426d41604e5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
                             },
@@ -33,14 +31,37 @@
                                  ]
                     },
                     {
-                    "stop":true,
-                    "name":"Video",
-                    "url":"http://www.iqiyi.com",
+                    "name":"港剧",
+                    "url":"https://m.100sp.com/mulu2015/3.html",
                     "reload":{
-                              "logo.png":"https://i.loli.net/2018/09/11/5b977f45005ab.png"
-                            }
+                              "logo.gif":"https://upload-images.jianshu.io/upload_images/1274527-9296426d41604e5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
+                            },
+                    "adType":[
+                              "saugei.js",
+                              "s13.cnzz.com",
+                              "img.wsf-gz.cn",
+                              "xlsschina15.net",
+                              "2hip.cn",
+                              "logo.png",
+                              "apple-touch-icon.png",
+                              ".apple.com",
+                              ".taokeweizhan.",
+                              "zhongxinguanye.",
+                              ".gif",
+                              ".kl6636.",
+                              ".heygugu.",
+                              "gvod.js"
+                              ],
+                    "mediaType":[
+                                 ".m3u8",
+                                 ".mp4",
+                                 "/share/",
+                                 "/embed/",
+                                 "api.52088cj.com"
+                                 ]
                     },
-                    
+
+
                     
                     {
                     "name":"日剧",
@@ -83,10 +104,18 @@
                                  "wifi"
                                  ]
                     
+                    },
+                    {
+                    "stop":true,
+                    "name":"Video",
+                    "url":"http://www.iqiyi.com",
+                    "reload":{
+                              "logo.png":"https://i.loli.net/2018/09/11/5b977f45005ab.png"
+                            }
                     }
                 ],
     
-    "list": [
+    "list-": [
              {
              "name": "原地址",
              "url": ""
