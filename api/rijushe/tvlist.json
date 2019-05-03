@@ -28,6 +28,32 @@
         "var uicontent = document.getElementsByClassName('ui-content')[0];uicontent.setAttribute(\"style\",\"padding-top: 0px; background-color: black; min-height: 0px;\");"
     ],
     "data": [
+           {
+            "url": "",
+            "name": "放映室",
+            "list": [
+                {
+                    "name": "粤语24H-我和僵尸有个约会",
+                    "url": "http://129.204.117.172/tv/blibli.m3u8?id=21144502"
+                },
+                {
+                    "name": "『粤语TV』",
+                    "url": "http://129.204.117.172/tv/blibli.m3u8?id=15027895"
+                },
+                {
+                    "name": "TBB粤语",
+                    "url": "http://129.204.117.172/tv/blibli.m3u8?id=80542"
+                },
+                {
+                    "name": "粤语残片",
+                    "url": "http://129.204.117.172/tv/blibli.m3u8?id=3568283"
+                },
+                {
+                    "name": "TBB电影",
+                    "url": "http://129.204.117.172/tv/blibli.m3u8?id=136843"
+                }
+            ]
+        },
         {
             "url": "",
             "name": "推荐",
