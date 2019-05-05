@@ -2,7 +2,7 @@
     "platformlist":[
                     {
                     "name":"港剧➁",
-                    "url":"http://129.204.117.172/tv/index.html",
+                    "url":"http://129.204.117.172/tv/index.html?t=4",
                     "reload":{
                               "logo.png":"https://upload-images.jianshu.io/upload_images/1274527-9296426d41604e5e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"
                             },
