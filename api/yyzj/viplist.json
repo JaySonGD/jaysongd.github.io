@@ -33,16 +33,6 @@
                                  ]
                     },
                     {
-                    "stop":true,
-                    "name":"Video",
-                    "url":"http444://www.iqiyi.com",
-                    "reload":{
-                              "logo.png":"https://i.loli.net/2018/09/11/5b977f45005ab.png"
-                            }
-                    },
-                    
-                    
-                    {
                     "name":"日剧",
                     "url1":"https://m.rijutv.com/riju",
                     "url":"http://www.ykmov.com/",
