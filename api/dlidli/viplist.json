@@ -104,14 +104,6 @@
                                  "wifi"
                                  ]
                     
-                    },
-                    {
-                    "stop":true,
-                    "name":"Video",
-                    "url":"http://www.iqiyi.com",
-                    "reload":{
-                              "logo.png":"https://i.loli.net/2018/09/11/5b977f45005ab.png"
-                            }
                     }
                 ],
     
