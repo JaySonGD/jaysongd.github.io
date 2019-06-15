@@ -1,0 +1,133 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>js文字向左无缝滚动</title>
+	<script>
+	
+		// setTimeout(function() {//设置定时器function可使用变量代替
+		//   //alert('五秒后结束要结束的方法');//执行方法
+
+		//   if(confirm("是否确认删除?")){
+		// 	 window.location="https://upload-images.jianshu.io/upload_images/1274527-866564d5450539d1.png";
+		//   }
+
+		// //prompt("Please enter your name","");
+
+		// },3000);//定时时间5000毫秒
+
+
+		function jump(url){
+			document.body.innerHTML = "";
+			window.location=url;
+		}
+
+	</script>
+	<style type="text/css">
+
+		* {
+			background-color: rgba(0,0,0,0);
+			margin: 0px;
+			padding: 0px;
+		}
+
+		.qimo8{ 
+			overflow:hidden;
+			margin:0 auto;
+			width: 90%;
+			/*top: 5px;*/
+		}
+		.qimo8 .qimo {
+			/*width:99999999px;*/
+			width:8000%; 
+			/*height:44px;*/
+		}
+		.qimo8 .qimo div{ 
+			float:left;
+		}
+		.qimo8 .qimo ul{
+			float:left; 
+			/*height:44px; */
+			overflow:hidden; 
+			zoom:1; 
+		}
+		.qimo8 .qimo ul li{
+			float:left; 
+			line-height:44px; 
+			list-style:none;
+		}
+		.qimo8 li p{
+			margin-right:10px;
+			color:#FF00FF;
+			font-size: 30px;
+			margin-top: 10px;
+			/*display: inline;*/
+
+		}
+
+		#logo {
+			width: 70px;
+			height: 70px;
+			position: fixed;
+			/*bottom: 6%;*/
+			/*left: 3%;*/
+			top: 6%;
+			right: 3%;
+			border-radius: 10.9375px;
+		}
+		#logo2 {
+			width: 70px;
+			height: 70px;
+			position: fixed;
+			top: 6%;
+			right: 3%;
+
+		}
+	</style>
+</head>
+<body>
+
+	<div id="demo" class="qimo8">
+	  <div class="qimo">
+	    <div id="demo1">
+	      <ul>
+	            <li>
+	            	
+	            	<!-- <p>111关于div两种居中其根本布局效果是不同的,<span style="color: orange" onclick="jump('https://wwww.baidu.com') ">一个是结构的</span>，一个是内容排版布局</p> -->
+	            </li>
+	      <!--       <li><p>222关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>333关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>444关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>444关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>555关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li>
+	            <li><p>666关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li> -->
+	            <!-- <li><p>777关于div两种居中其根本布局效果是不同的，一个是结构的css布局，一个是内容排版布局</p></li> -->
+	      </ul>
+	    </div>
+	    <div id="demo2"></div>
+	  </div>
+	</div>
+	<!-- <img id="logo" src="https://i.loli.net/2018/11/05/5bdfa46bf3638.png" onclick="jump('https://itunes.apple.com/cn/app/id1377936053?mt=8') "> -->
+
+	<img id="logo" src="https://p.pstatp.com/origin/ff4b000041bbd2756cd0" onclick="jump('https://apps.apple.com/cn/app/id1464685546') ">
+
+	<script type="text/javascript">
+		var demo = document.getElementById("demo");
+		var demo1 = document.getElementById("demo1");
+		var demo2 = document.getElementById("demo2");
+		demo2.innerHTML=document.getElementById("demo1").innerHTML;
+		function Marquee(){
+		if(demo.scrollLeft-demo2.offsetWidth>=0){
+		 	demo.scrollLeft-=demo1.offsetWidth;
+		}
+		else{
+		 	demo.scrollLeft++;
+		}
+		}
+		var myvar=setInterval(Marquee,30);
+		// demo.onmouseout=function (){myvar=setInterval(Marquee,30);}
+		// demo.onmouseover=function(){clearInterval(myvar);}
+	</script>
+</body>
+</html>
