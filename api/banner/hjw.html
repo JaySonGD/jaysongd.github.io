@@ -1,0 +1,124 @@
+<!-- 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script>
+	
+
+
+		function jump(url){
+			document.body.innerHTML = "";
+			window.location=url;
+		}
+
+	</script>
+	<style type="text/css">
+
+		* {
+			/*background-color: rgba(0,0,0,0);*/
+			margin: 0px;
+			padding: 0px;
+		}
+
+		body{ 
+			text-align:center;
+			background: red;
+		}
+		
+		div{
+			margin:0 auto;
+
+			width: 95%;
+			height: 300px;
+			background: #0B9521;
+			position: relative;
+            top: 50%; /*偏移*/
+            margin-top: -150px; 
+
+		}
+
+		#content{
+			border-radius: 20px;
+		}
+
+
+	</style>
+</head>
+<body>
+
+<div id="box" >
+	<img id="content" width="100%" src="1.png" onclick="jump('https://itunes.apple.com/cn/app/id1359761086?mt=8') ">
+</div>
+	
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+
+    <script>
+	
+
+
+		function jump(url){
+			document.body.innerHTML = "";
+			window.location=url;
+		}
+
+	</script>
+
+    <style>
+
+    	* {
+			background-color: rgba(0,0,0,0);
+			margin: 0px;
+			padding: 0px;
+		}
+        html,body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+			background-color: rgba(0,0,0,0.3);
+        }
+        .content {
+            width: 95%;
+            height: 600px;
+            margin: 0 auto; /*水平居中*/
+            position: relative;
+            top: 50%; /*偏移*/
+            margin-top: -400px; 
+            /*background: blue;*/
+        }
+
+        #content{
+			border-radius: 30px;
+		}
+
+		#close{
+			width: 88px;
+			height: 88px;
+			margin: 0 auto; /*水平居中*/
+			/*background: white;*/
+			position: relative;
+			top: 128px; /*偏移*/
+
+		}
+
+    </style>
+</head>
+<body>
+	<div id="close">
+		    		<img  width="100%" src="2.png" onclick="jump('itunes://itunes.apple.com/cn/app/id1359761086?mt=8') ">
+	</div> 
+    <div class="content">
+
+    		<img id="content" width="100%" src="1.png" onclick="jump('https://itunes.apple.com/cn/app/id1359761086?mt=8') ">
+    </div>
+</body>
+</html>
