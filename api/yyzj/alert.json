@@ -1,7 +1,7 @@
  {
- "title": "aaa",
- "msg": "bbb",
- "count": 0,
+ "title": "友情提示",
+ "msg": "大惊喜",
+ "count": 1,
  "ug--": true,
  "banner--":[
 
@@ -49,16 +49,13 @@
  		],
  "items": [
 
- 			{ 
- 				"title": "去看看",
- 				"url": "https://www.jianshu.com/p/2cd9ddf4b0a8"
-			},
+ 		
 			 			{ 
  				"title": "去看看",
- 				"url": "https://www.jianshu.com/p/2cd9ddf4b0a8"
+ 				"url": "http://itunes.apple.com/cn/app/id1478627918"
 			}, 			{ 
  				"title": "取消",
- 				"url": "url"
+ 				"url": ""
 			}
 
 
