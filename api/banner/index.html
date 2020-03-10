@@ -1,0 +1,89 @@
+
+<!DOCTYPE HTML>
+<html style="font-size:50px;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content=" initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+  <meta name = "format-detection" content = "telephone=no">
+  <title>提示</title>
+</head>
+<body>	
+<!-- 							<button onclick="popup()">popup</button>
+ -->
+</body>
+<script src="xxy.js"></script>
+<script>
+
+	function getQueryVariable(variable){
+       var query = window.location.search.substring(1);
+       var vars = query.split("&");
+       for (var i=0;i<vars.length;i++) {
+               var pair = vars[i].split("=");
+               if(pair[0] == variable){return pair[1];}
+       }
+       return(false);
+	}
+
+	
+	function jump(url){
+			document.body.innerHTML = "";
+			window.location=url;
+	}
+	
+	// 配置
+	var config = {
+		mask: .3,
+		skin: 'ios',
+		an: true
+	};
+	xxy.config(config)
+	
+	function popup(){
+
+		var url = getQueryVariable('url');
+		var must = getQueryVariable('must');
+		var msg = getQueryVariable('msg');
+		var title = getQueryVariable('title');
+
+		if(!title){
+			title = '提示';
+		}
+		if(!msg){
+			msg = '版本升级了，添加了离线缓存/剧集下载等功能，点击下载最新版本哦！';
+		}
+
+
+		console.log(url);
+		console.log(must);
+		if(!must){
+			xxy.popup(title,msg,'取消','确定',function(e){
+				if(e==0){
+						//xxy.toast('取消');
+						//jump('https://www.baidu.com');
+						//jump('itunes://itunes.apple.com/cn/app/id1489119061?mt=8&target=tvf&');
+				}else {
+					if(url)	jump(url);
+						//xxy.toast('确定')
+						//jump('https://apps.apple.com/cn/app/id1489119061?mt=8&target=tvf&');
+				}
+			})
+			return;
+		}
+
+
+		xxy.alert(title,title,'确定',function(e){
+					if(url)	jump(url);
+		})
+	}
+	
+	popup();
+</script>
+</html>
+
+
+
+
+
+
+
+
