@@ -42,8 +42,8 @@
 
 		var url = getQueryVariable('url');
 		var must = getQueryVariable('must');
-		var msg = getQueryVariable('msg');
-		var title = getQueryVariable('title');
+		var msg = unescape(getQueryVariable('msg'));
+		var title = unescape(getQueryVariable('title'));
 
 		if(!title){
 			title = '提示';
