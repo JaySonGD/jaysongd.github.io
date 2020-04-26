@@ -45,12 +45,13 @@
 		var msg = decodeURI(getQueryVariable('msg'));
 		var title = decodeURI(getQueryVariable('title'));
 
-		if(!title){
+		if(title == false){
 			title = '提示';
 		}
-		if(!msg){
+		if(msg == false){
 			msg = '版本升级了，添加了离线缓存/剧集下载等功能，点击下载最新版本哦！';
 		}
+
 
 
 		console.log(url);
